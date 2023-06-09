@@ -3,7 +3,7 @@ This repository contains the code accompanying my Thesis titled : "Automating Fe
 relationships"
 
 
-The code runs on a [jupytern notebook](https://jupyter.org/install)
+The code runs on a [jupyter notebook](https://jupyter.org/install)
 
 # Dependencies : 
    - pandas
