@@ -1,0 +1,1368 @@
+text,Food,Phenotype,label
+"""Traditionally used to enhance the renal elimination of water"" / ""Traditionally used to facilitate the elimination functions of the organism"" / ""Used to enhance the renal elimination of water"" / ""Used to facilitate the elimination functions of the organism"" / ""Used for the drainage of the organism"" / ""Diuretic effect"" / ""Stimulates the elimination function of the organism"" / ""Contributes to the functionary of the urinary tract""",Prunus cerasus - common name : Sour cherry,Increase in renal water elimination,1
+"""Used to enhance the renal elimination of water"" / ""Used to facilitate the elimination functions of the organism"" / ""Used for the drainage of the organism"" / ""Stimulates the elimination function of the organism"" / ""Contributes to the functionary of the urinary tract""",Apium graveolens - common name :  celery,Increase in renal water elimination,1
+"""Used to enhance the renal elimination of water"" / ""Used to facilitate the elimination functions of the organism"" / ""Used for the drainage of the organism"" / ""Stimulates the elimination function of the organism"" / ""Contributes to the functionary of the urinary tract""","Cynara scolymus - common name :  artichoke, globe artichoke",Increase in renal water elimination,1
+"""Used to facilitate the digestion""
+""Helps to support normal liver function""
+""Contributes to the stimulation of the production of the digestive body fluids""
+""Supports the liver and biliary function""
+""Contributes to the digestive comfort""
+""Helps to facilitate fat digestion""
+""Contributes to better fat digestion""
+""Helps to support the digestion""
+""Contributes to support the digestion"".","Raphanus sativus  - common name : radish, black radish, Japanese radish, Daikon",“Digestive function”,0
+"* Maintains/restores the balance of intestinal flora
+* Promotes intestinal comfort
+* Strengthens resistance of organism
+* Improves digestive health",Bifidobacterium animalis ssp. lactisTHT 010801,"Changes in bowel function, and digestion and absorption of nutrients",1
+"* Maintains/restores the balance of intestinal flora
+* Promotes intestinal comfort
+* Strengthens resistance of organism
+* Improves digestive health",Bifidobacterium animalis ssp. lactisTHT 010801,Decreasing potentially pathogenic gastro-intestinal microorganisms,1
+"* Maintains/restores the balance of intestinal flora
+* Promotes intestinal comfort
+* Strengthens resistance of organism
+* Improves digestive health",<em>Bifidobacterium longum</em> THT 010301,"Changes in bowel function, and digestion and absorption of nutrients",1
+"* Maintains/restores the balance of intestinal flora
+* Promotes intestinal comfort
+* Strengthens resistance of organism
+* Improves digestive health",<em>Bifidobacterium longum</em> THT 010301,Decreasing potentially pathogenic gastro-intestinal microorganisms,1
+"* Maintains/restores the balance of intestinal flora
+* Promotes intestinal comfort
+* Strengthens resistance of organism
+* Improves digestive health",<em>Bifidobacterium longum</em> bv infantis THT 010201,"Changes in bowel function, and digestion and absorption of nutrients",1
+"* Maintains/restores the balance of intestinal flora
+* Promotes intestinal comfort
+* Strengthens resistance of organism
+* Improves digestive health",<em>Bifidobacterium longum</em> bv infantis THT 010201,Decreasing potentially pathogenic gastro-intestinal microorganisms,1
+"* Maintains/restores the balance of intestinal flora
+* Promotes intestinal comfort
+* Strengthens resistance of organism
+* Improves digestive health",Bifidobacterium pseudolongum ssp pseudolongum THT 010501,"Changes in bowel function, and digestion and absorption of nutrients",1
+"* Maintains/restores the balance of intestinal flora
+* Promotes intestinal comfort
+* Strengthens resistance of organism
+* Improves digestive health",Bifidobacterium pseudolongum ssp pseudolongum THT 010501,Decreasing potentially pathogenic gastro-intestinal microorganisms,1
+"* Maintains/restores the balance of intestinal flora
+* Promotes intestinal comfort
+* Strengthens resistance of organism
+* Improves digestive health",<em>Lactobacillus casei</em> THT 030401,"Changes in bowel function, and digestion and absorption of nutrients",1
+"* Maintains/restores the balance of intestinal flora
+* Promotes intestinal comfort
+* Strengthens resistance of organism
+* Improves digestive health",<em>Lactobacillus casei</em> THT 030401,Decreasing potentially pathogenic gastro-intestinal microorganisms,1
+"* Maintains/restores the balance of intestinal flora
+* Promotes intestinal comfort
+* Strengthens resistance of organism
+* Improves digestive health",Lactobacillus gasseri THT 031301,"Changes in bowel function, and digestion and absorption of nutrients",1
+"* Maintains/restores the balance of intestinal flora
+* Promotes intestinal comfort
+* Strengthens resistance of organism
+* Improves digestive health",Lactobacillus gasseri THT 031301,Decreasing potentially pathogenic gastro-intestinal microorganisms,1
+"* Maintains/restores the balance of intestinal flora
+* Promotes intestinal comfort
+* Strengthens resistance of organism
+* Improves digestive health",<em>Lactobacillus helveticus</em> THT 031102,"Changes in bowel function, and digestion and absorption of nutrients",1
+"* Maintains/restores the balance of intestinal flora
+* Promotes intestinal comfort
+* Strengthens resistance of organism
+* Improves digestive health",<em>Lactobacillus helveticus</em> THT 031102,Decreasing potentially pathogenic gastro-intestinal microorganisms,1
+"* Maintains/restores the balance of intestinal flora
+* Promotes intestinal comfort
+* Strengthens resistance of organism
+* Improves digestive health",<em>Lactobacillus plantarum</em> THT 030701,"Changes in bowel function, and digestion and absorption of nutrients",1
+"* Maintains/restores the balance of intestinal flora
+* Promotes intestinal comfort
+* Strengthens resistance of organism
+* Improves digestive health",<em>Lactobacillus plantarum</em> THT 030701,Decreasing potentially pathogenic gastro-intestinal microorganisms,1
+"* Maintains/restores the balance of intestinal flora
+* Promotes intestinal comfort
+* Strengthens resistance of organism
+* Improves digestive health",<em>Lactobacillus plantarum</em> THT 030707,"Changes in bowel function, and digestion and absorption of nutrients",1
+"* Maintains/restores the balance of intestinal flora
+* Promotes intestinal comfort
+* Strengthens resistance of organism
+* Improves digestive health",<em>Lactobacillus plantarum</em> THT 030707,Decreasing potentially pathogenic gastro-intestinal microorganisms,1
+"* Maintains/restores the balance of intestinal flora
+* Promotes intestinal comfort
+* Strengthens resistance of organism
+* Improves digestive health",Lactobacillus reuteri THT 030802,"Changes in bowel function, and digestion and absorption of nutrients",1
+"* Maintains/restores the balance of intestinal flora
+* Promotes intestinal comfort
+* Strengthens resistance of organism
+* Improves digestive health",Lactobacillus reuteri THT 030802,Decreasing potentially pathogenic gastro-intestinal microorganisms,1
+"* Maintains/restores the balance of intestinal flora
+* Promotes intestinal comfort
+* Strengthens resistance of organism
+* Improves digestive health",Lactobacillus salivarius THT 031001,"Changes in bowel function, and digestion and absorption of nutrients",1
+"* Maintains/restores the balance of intestinal flora
+* Promotes intestinal comfort
+* Strengthens resistance of organism
+* Improves digestive health",Lactobacillus salivarius THT 031001,Decreasing potentially pathogenic gastro-intestinal microorganisms,1
+"* Maintains/restores the balance of intestinal flora
+* Promotes intestinal comfort
+* Strengthens resistance of organism
+* Improves digestive health",<em>Streptococcus thermophilus</em> THT 070102,"Changes in bowel function, and digestion and absorption of nutrients",1
+"* Maintains/restores the balance of intestinal flora
+* Promotes intestinal comfort
+* Strengthens resistance of organism
+* Improves digestive health",<em>Streptococcus thermophilus</em> THT 070102,Decreasing potentially pathogenic gastro-intestinal microorganisms,1
+"- ALA supports the decrease of the blood sugar, might regulate the insulin resistance;
+- ALA has proven to be very effective in protection from glycation;
+- ALA might help to regulate the damage done by final products of the glycation proteins (AGE).",Alpha Lipoic acid (ALA),Maintenance of normal blood glucose concentrations,2
+"- Combined with resistance exercise, whey protein supports an increase in muscular strength.
+- Whey protein improves exercise performance.",Whey Protein,increase in muscle strength,1
+"- Contributes to the mobilisation of fat stores;
+- Contributes ton the stimulation of fat release;
+- Helps to increase fat burning;
+- Contributes to the oxidation of stored fats;
+- Helps generate a negative energy balance;
+- Contributes to increased calorie burning.",Caffeine,increased fat oxidation leading to a reduction in body fat mass,1
+"- Exact wording of claim as it appears on product: Ipriflavone supresses bone resorption;
+- Examples of any alternative wording that may be used in relation to claim: Increases bone density/ prevents decreased bone mineral density/ prevents rapid bone loss/ total bone health/ Maintain healthy bones/ Maintain bone integrity/ Reduce bone loss/ Maintain adequate bone density/ support bone health/ contributes to bone health/ contributes to bone strength/ Beneficial effects on bone health/ increased bone mineral density/ Increased bone strength/ Helps reduce risk of bone loss
+- Is claim a picture: No","Name of Food product: Ipriflavone
+
+Description of food in terms of food legislation categories: Food supplement
+
+Was food on Irish market before 1st July 2007: No",maintenance of bone mineral density,1
+- Helps keep arteries/blood vessels healthy; - Contributes to healthy arteries/ blood vessels; - Supports heart health by contributing to the normal functioning of the arteries/blood vessels; -  Helps maintain a normal blood pressure by supporting the elasticity of blood vessels/arteries;,Folic acid (syn.: Vitamin B9),function of blood vessels,0
+"- Helps to delay the onset of fatigue;
+- helps to maintain energy levels for prolonged periods during intense competition / exercise;
+- enhances endurance and helps to maintain peak effort during times of high physical demand.",Taurine,delay in the onset of fatigue and enhancement of physical performance,1
+- Maintains/restores the balance of intestinal flora. - Promotes intestinal comfort. - Strengthens resistance of organism - Improves digestive health,<em>Lactobacillus plantarum</em> BFE 1685,Decreasing potentially pathogenic intestinal microorganisms,1
+"- Protects organism against effects of the free radicals in excess during oxidative stress.
+- Protects against cellular ageing induced by free radicals",Melon extract (containing SOD) /Wheat Gliadin,"protection of DNA, proteins and lipids from oxidative damage",2
+"- Supports the protection of the body’s cells;
+- Supports the protection from free radicals;
+- Supports the protection of cells and tissues from oxidation.",Taurine,"protection of DNA, proteins and lipids from oxidative damage",2
+"- Wheat dextrin has low glycemic and insulinemic indices and it is suitable for use by diabetics.
+- Eating a diet high in fiber can help control postprandial glucose levels and serum lipid profiles.
+- Dietary fiber helps improve glycemic control to improve your ability to maintain normal blood sugar and insulin levels, essential for good health",Wheat Dextrin,reduction of post-prandial glycaemic responses,0
+"- Whey protein essential amino acids aid muscle maintenance in the elderly and at risk persons.
+- Whey protein essential amino acids reduce lean tissue loss in the elderly and at risk persons.",Whey Protein,growth or maintenance of muscle mass,0
+- contributes to the  rebalancing of intestinal microflora;- rebalances the intestinal motility function;- supports the maintenance of intestinal homeostasis;- promotes the wellbeing of the intestine;- contributes to reducing gastro-intestinal discomfort;,<em>Bifidobacterium longum</em> W11(LMG P-21586),Bifidobacterium longum W11 related to the following claimed effect: 'relief of abdominal discomfort and bloating',0
+- contributes to the  rebalancing of intestinal microflora;- rebalances the intestinal motility function;- supports the maintenance of intestinal homeostasis;- promotes the wellbeing of the intestine;- contributes to reducing gastro-intestinal discomfort;,<em>Lactobacillus casei</em> LC 01(CNCM I-1572),Lactobacillus casei DG CNCM I-1572 and decreasing potentially pathogenic gastro-intestinal microorganisms,0
+- contributes to the  rebalancing of intestinal microflora;- supports the maintenance of intestinal homeostasis;- promotes the wellbeing of the intestine;- contributes to reducing gastro-intestinal discomfort;- improves the metabolic activity of intestinal microflora.,<em>Lactobacillus paracasei </em> LPC 01(CNCM I-1390),"L. paracasei LPC 01 (CNCM I-1390) and 'relieve symptoms typically associated with Irritable Bowel Syndrome (IBS), especially diarrhoea-predominant IBS, and to help reduce the daily number of bowel movements as well as improve the consistency of faeces in adult subjects reporting acute diarrhoea'",0
+- good for your blood pressure - supports a healthy blood pressure - helps maintain a healthy blood pressure - helps maintain a normal blood pressure,special hydrolysed milk proteins,maintenance of normal blood pressure,0
+- helps inhibit the formation of plaque; - helps put a stop to plaque formation; - works against the formation of plaque and tartar; - helps defend against the formation of plaque - helps to keep teeth and gums in normal healthy conditions by limiting/checking/impeding/curbing the accumulation of plaque,Sugar-free chewing gum,Reduction of dental plaque,0
+"- helps to manage body weight, - helps to reduce body fat particularly in overweight persons, - helps to limit body fat accumulation, - helps to increase energy expenditure.",Medium Chain Triglycerides (MCT),reduction in body weight,1
+"- polydextrose promotes good intestinal health;
+-polydextose improves bowel function and gut comfort;",Polydextrose,changes in bowel function,1
+"- polydextrose promotes good intestinal health;
+-polydextose improves bowel function and gut comfort;",Polydextrose,reduction of gastro-intestinal discomfort,1
+"- polydextrose promotes good intestinal health;
+-polydextose improves bowel function and gut comfort;",Polydextrose,Changes in short chain fatty acid (SCFA) production and/or pH in the gastro-intestinal tract,1
+"- probiotic
+-strenghtens the immune system;
+-enhances the bodys natural defences.","Lactobacillus gasseri PA 16/8, Bifidobacterium bifidum MF 20/5 and <em>Bifidobacterium longum</em> SP 07/3",Maintenance of the upper respiratory tract defence against pathogens,1
+"- probiotic
+'-increases your natural defences;
+-actively supports your immune system;
+-strengthens your immune defences.",Lactobacillus johnsonii NCC 533 (La1) (Pasteur culture collection CNCM I-1225),improving immune defence against pathogenic gastro-intestinal microorganisms,1
+- produces folic acid and riboflavin;- supports the maintenance of intestinal homeostasis;- contributes to the rebalancing of intestinal microflora;- promotes the wellbeing of the intestine.,<em>Lactobacillus plantarum</em> LP 01(LMG P-21021)+<em>Lactobacillus plantarum</em>  LP 02(LMG P-21020)+<em>Lactobacillus rhamnosus</em> LR 04(DSM 16605) +<em>Lactobacillus rhamnosus</em> LR 05(DSM 19739) +Bifidobacterium  lactis BS 01(LMG P-21384),"A combination of Bifidobacterium animalis subsp. lactis BS01, Lactobacillus rhamnosus LR04, Lactobacillus rhamnosus LR05, Lactobacillus plantarum LP01, Lactobacillus plantarum LP02 and short-chain fructo-oligosaccharides or galacto-oligosaccharides related to the following claimed effect: 'defence against upper respiratory tract infections'",0
+- rebalances the intestinal motility function; -contributes to the  rebalancing of intestinal microflora; - supports the maintenance of intestinal homeostasis; -promotes the wellbeing of the intestine; -restores intestinal flora bacteria in the elderly; -optimizes intestinal transit in the elderly.,Bifidobacterium adolescentis BA 02 (DSM 17103),Bifidobacterium adolescentis BA02 related to the following claimed effect: 'intestinal motility',0
+- supports the natural defences of the organism;- strengthens natural defences;- contributes to the maintenance of intestinal wellbeing;- promotes the maintenance of intestinal homeostasis;- restores intestinal bacterial flora.,Bifidobacterium lactis BS 01 (LMG P-21384)+<em>Lactobacillus rhamnosus</em> LR 04 (DSM 16605)+ <em>Lactobacillus plantarum</em>  LP 02(LMG P-21020)+Lactoferrin,"A combination of Bifidobacterium animalis subsp. lactis BS01, Lactobacillus rhamnosus LR04, Lactobacillus plantarum LP02, lactoferrin and short-chain fructo-oligosaccharides related to the following claimed effect: 'defence against upper respiratory tract infections'",0
+"- works against the formation of plaque and tartar;
+- keep plaque at bay;
+- helps counter the plaque formation thereby keeping teeth and gums in normal healthy conditions;
+- works against plaque",Sugar-free chewing gum with Xylitol,Reduction of dental plaque,0
+"-Alpha-linolenic acid (omega 3) is important for the immune system;
+- Alpha-linolenic acid (omega 3) helps to maintain normal healthy blood lipid levels which is important for the immune system / which helps support the body's immune system","Essential fatty acid
+Alpha-linolenic acid (LNA  - omega 3)",“Molecule precursors regulating cell functions”,0
+"-Antioxidant.
+-Protects cells from ageing.
+-Important for nitrogen metabolism.",Molybdenum,"Protection of DNA, proteins and lipids from oxidative damage",2
+"-Enhances physical performance.
+-Provides a performance edge
+-Can delay the onset of fatigue
+-Can increase exercise intensity/work rate",Caffeine,Increase in physical performance during short-term high-intensity exercise,1
+"-Glucosamine alone or in combination with chondroitin sulphate contributes to the maintenance of flexibility and mobility of the joints -helps to maintain healthy joint -supports mobility -helps to keep joints supple and flexible -necessary for the structure of cartilage and other connective tissues -is produced naturally by the body where it plays a role in the smooth working of the joints -is produced naturally by the body where it helps maintain connective tissues -helps maintain healthy joints, bones, ligaments and tendons -occurs naturally in the joints and muscles where it plays a role in the smooth working of connective tissue -helps maintain joint health -helps keep joints in good condition/ --helps maintain cartilage"""", -""""helps rebuilding cartilage"""" and """"lays down the foundation for everyday rebuilding of connective tissues around the joints, including tendons, ligaments and cartilage",Glucosamine,Maintenance of joints,0
+-Helps to restore / promote / regulate normal intestinal function - Facilitates the intestinal transit - promotes regularity of the bowel/colonic function -Helps to maintain normal bowel/colonic function - Ensures a healthy digestive system /function,Glucomannan (Konjac),maintenance of normal bowel function,0
+"-Linoleic acid (omega 6) is important for the immune system;
+- Linoleic acid (omega 6) helps to maintain normal healthy blood lipid levels which is important for the immune system/ which helps support the body's immune system","Essential fatty acid
+Linoleic Acid (LA - omega 6)","“molecule precursors regulating cell functions (prostaglandines, leucotrienes)”",0
+"-Wheat dextrin has low glycemic and insulinemic indices.
+-Eating a diet high in fiber can help control postprandial glucose levels and serum lipid profiles.
+-Dietary fiber helps improve glycemic control to improve your ability to maintain normal blood sugar and insulin levels, essential for good health.",Wheat Dextrin,reduction of post-prandial glycaemic responses,0
+-acacia gum promotes good intestinal health;-acacia gum improves bowel functions & gut comfort;,Acacia gum (gum arabic),Changes in bowel function,1
+-acacia gum promotes good intestinal health;-acacia gum improves bowel functions & gut comfort;,Acacia gum (gum arabic),Reduction of gastro-intestinal discomfort,1
+-acacia gum promotes good intestinal health;-acacia gum improves bowel functions & gut comfort;,Acacia gum (gum arabic),Changes in short chain fatty acid (SCFA) production and pH in the gastro-intestinal tract,1
+"-fructooligosaccharides/ oligrofructose enhance/ promote/ increase magnesium absorption;
+-fructooligosaccharides/ oligrofructose enhance/ promote/ increase calcium absorption;
+-fructooligosaccharides/ oligrofructose support isoflavone activity on bone health",Fructoligosaccharides from sucrose,increasing calcium and/or magnesium absorption leading to an increase in magnesium and/or calcium retention,1
+"-fruit protects the body’s cells;
+-protects you from free radicals;
+-protects your cells and tissues from oxidation;
+-antioxidants help strengthen our body's natural defences against oxidative stress.","Fruits (fresh, frozen, canned, bottled, dried, juiced)","protection of DNA, proteins and lipids from oxidative damage",2
+"-help to maintained a calm and relaxed physical and psychological state pre- menstrual period.
+-support in premenstrual syndrome. Support a normal healthy attitude during menstrual cycle.",L-Theanine,reduction of menstrual discomfort,0
+-probiotic -balances your healthy intestinal flora; -improves your intestinal transit.,Lactobacillus gasseri CECT5714 and Lactobacillus coryniformis CECT5711,decreasing potentially pathogenic intestinal microorganisms,1
+-probiotic -balances your healthy intestinal flora; -improves your intestinal transit.,Lactobacillus gasseri CECT5714 and Lactobacillus coryniformis CECT5711,improvement of intestinal transit,1
+"-vegetables help protect the body’s cells;
+-protect you from free radicals;
+-protect your cells and tissues from oxidation;
+-antioxidants help strengthen our body's natural defences against oxidative stress;
+-people should consume a wide variety of fruits and vegetables, choosing among colours present in nature, to incorporate the various phytochemical and maximise protection;
+-Brassica vegetables (e.g. X) provide particular protection against oxidation.","Vegetables (fresh, frozen, canned, bottled, dried, juiced)","protection of DNA, proteins and lipids from oxidative damage",2
+"1- When used within a healthy, balanced diet, in combination with a healty lifestyle, corn oil with an elevated vitamin E content and a guaranteed polyunsaturates fatty acids content contributes to the control of blood cholesterol. 2-When used within a healthy, balanced diet, in combination with a healty lifestyle, corn oil contributes to the control of blood cholesterol. 3-As a part of a healthy lifesyle, corn oil helps to maintain normal blood cholesterol level.4-As a part of a healthy lifesyle, corn oil helps to keep blood cholesterol levels under control.","Corn Oil with a guaranteed polyunsatured fatty acids content (56% of total fatty acids), supplemented with vitamin E.",maintenance of normal blood LDL-cholesterol concentrations,0
+"1. Activates metabolism and energy conversion process in the body, promotes effective assimilation of nutrients.
+2. Vitamins and micronutrients are highly essential for normal body functioning",Brewer`s Yeast,contribution to normal energy-yielding metabolism,0
+"1. Beneficial affects the cardiovascular system 2. Ensures regulation of the blood vessel tonus 3. Promotes lmaintenance of vascular elasticity, heart health and normal blood pressure 4. Helps regulate blood pressure and cholesterol levels",Gamma – linolenic acid,Maintenance of normal blood cholesterol concentrations,0
+"1. Beneficial affects the cardiovascular system 2. Ensures regulation of the blood vessel tonus 3. Promotes lmaintenance of vascular elasticity, heart health and normal blood pressure 4. Helps regulate blood pressure and cholesterol levels",Gamma – linolenic acid,Maintenance of normal blood pressure,0
+"1. Evening primrose oil in the body transforms into biologically active substances — prostaglandins, which are essential biological regulators and participate in metabolism and hormonal regulation reducing problems associated with hormonal imbalance
+2. Helps ensure healthy function of the hormonal system
+3. Borage oil is precursor of prostaglandins wich are regulators associated with many of the body's metabolic function
+4. Contributes to maintain healthy/normal hormonal system function",Gamma – linolenic acid,Reduction of menstrual discomfort,0
+"1. For cardiovascular health.
+2. Improves function of the heart",Antler,maintenance of normal cardiac function,1
+1. Helps improve digestion 2. Helps maintain normal bowel movement 3. Normalizes bowel movement 4. Promotes intestinal activity 5. Promotes/contributes to bowel regularity,Apple cider vinegar,Bowel motor function,0
+"1. Improves metabolism
+2. Helps maintain functions and structure of the body and its organ cell membranes
+3. Activates absorption of calcium in intestinal tract thereby increasing bone density
+4. Promotes body purification and reduction of body mass",Wheat germ oil,maintenance of normal bone,1
+"1. Improves skin condition, its elasticity and firmness, promotes natural renewal of skin cells, normalizes skin’s moisture level by moisturizing it in a natural way.",Wheat germ oil,maintenance of normal skin hydration,0
+"1. Increases immunity
+2. Ensures activity of the immune system, reduction of inflammatory reactions",Wheat germ oil,reduction of inflammation,1
+"1. Lutein is a natural antioxidant which protects the skin from the harmful effects of free radicals
+2. Lutein helps protect the retina and lens from free radicals which result from UV-radiation
+3. Lutein is a natural antioxidant for eyes 
+4.Lutein protects the eye from the harmful effects of free radicals
+5. Lutein helps protect the macular pigment from the harmful UV-radiation and oxygen-containing free radicals",Lutein,maintenance of normal vision,2
+"1. Lutein is a natural antioxidant which protects the skin from the harmful effects of free radicals
+2. Lutein helps protect the retina and lens from free radicals which result from UV-radiation
+3. Lutein is a natural antioxidant for eyes 
+4.Lutein protects the eye from the harmful effects of free radicals
+5. Lutein helps protect the macular pigment from the harmful UV-radiation and oxygen-containing free radicals",Lutein,protection of the skin from UV-induced (including photo-oxidative) damage,2
+"1. Necessary for normal growth, wholesome mental and physical development
+2. Helps maintain functions and structure of the body and organ cell membranes
+3. Lecithin is found in every human cell and it participates in various vitally important processes",Lecithin,“Function of the cell membrane”,0
+"1. Stimulates the libido
+2. Improves erection, contributes to the increase of sperm volume and relaxes muscles",Prunus amygdalus,maintenance of normal erectile function,1
+"1. Strengthens the cardiovascular system
+2. Promotes lmaintenance of vascular elasticity, heart health and normal blood pressure
+3. Ensures regulation of the blood vessel tonus",Wheat germ oil,maintenance of normal blood pressure,0
+A diet rich in long chain fatty acids may help normal immune system function.,Long Chain Fatty Acids (EPA/DHA),"contribution to the normal function of the immune system by decreasing the levels of eicosanoids, arachidonic acid-derived mediators and pro-inflammatory cytokines",0
+"A generally restorative tea which is rich in vitamins, minerals, antioxidants and essential herbal oils and helps the body overcome stress and exertion, prevents setting in of changes associated with age, improves the immunity",Apium graveolens (Celery),&quot;invigoration of the body&quot;,1
+"A strong antioxidant that protects the body’s cells from the harmful effects of free radicals;
+Improves the immune system.",Rutin,"protection of DNA, proteins and lipids from oxidative damage",2
+"ALA might protect the lipids from oxidative damage, might also helps to keep normal level of blood cholesterol, has positive effects in fat burning.",Alpha Lipoic acid (ALA),Protection of body lipids from oxidative damage,0
+"ALA might protect the lipids from oxidative damage, might also helps to keep normal level of blood cholesterol, has positive effects in fat burning.",Alpha-lipoic-acid,Increased beta-oxidation of fatty acids,0
+"ALA might protect the lipids from oxidative damage, might also helps to keep normal level of blood cholesterol, has positive effects in fat burning.",Alpha-lipoic-acid,Maintenance of normal blood cholesterol concentrations,0
+"ATP is used for energy by muscle cells. Ribose helps regenerate muscle ATP levels, thereby improving exercise performance and recovery”
+“Ribose helps maintain cellular energy”
+“Ribose enhances recovery after strenuous activity”
+“Ribose is an important building block for cellular energy”",Ribose,faster recovery from muscle fatigue after exercise,1
+"Accelerates recovery from exercise
+helps to recover faster
+shortens the time to recover completely
+helps to enhance endurance performance
+helps to perform longer
+supports endurance performance
+increases endurance performance
+increases time to fatigue during exercise
+helps to enhance physical performance
+helps to perform better
+supports physical performance
+helps to increase physical performance
+protects muscle during exercise",Casein protein hydrolysate,increase in endurance performance,1
+"Accelerates recovery from exercise
+helps to recover faster
+shortens the time to recover completely
+helps to enhance endurance performance
+helps to perform longer
+supports endurance performance
+increases endurance performance
+increases time to fatigue during exercise
+helps to enhance physical performance
+helps to perform better
+supports physical performance
+helps to increase physical performance
+protects muscle during exercise",Casein protein hydrolysate,faster recovery from muscle fatigue after exercise,1
+Acerola is a major dietary source of antioxidants Antioxidants from dietary sources contribute to the protection against free radicals which cause cell damage Contributes to the protection of cells and tissues from oxidative damage Help strengthen our bod,Acerola,"Protection of DNA, proteins and lipids from oxidative damage",2
+Acerola is a major dietary source of antioxidants/ Antioxidants from dietary sources contribute to the protection against free radicals which cause cell oxidation/ Contributes to the protection of cells and tissues from oxidation/ Help strengthen our body's natural defences against oxidative stress,Acerola,"Protection of DNA, proteins and lipids from oxidative damage",2
+Acts as a natural antioxidant. Helps to reduce oxidative stress. Helps to reduce aging effects. Necessary for cells protection. Improves the antioxidant defensive system.,Lemon (Citrus limonium) - flavonoïdes,"Protection of DNA, proteins and lipids from oxidative damage",2
+"Against skin ageing.
+Protects cells from ageing",L-carnosine,“skin”,2
+"Aide à combattre les excès de poids
+Aide dans le cadre d'un régime amincissant
+Soutient lors d'amincissement
+Clarification provided
+Contributes to management of weight control/can help in the reduction of body weight/can help to the control of weight by reducing the quantity of fat absorbed from the diet.",Chitosane,reduction in body weight,2
+"Aids slimming by reducing body fat and preserving lean muscle
+Helps to reduce muscle protein loss during a diet
+Increases lean tissue mass
+Increases feelings of fullness and satiety
+Helps to reduce yoyo-effect after a diet
+Improves the burning of fat",Conjugated linoleic acid (CLA),contribution to the maintenance or achievement of a normal body weight,1
+An adequate magnesium intake can support to maintain normal blood pressure,Magnesium,Maintenance of normal blood pressure,0
+"An optimal intake of zeaxanthin contributes to eye health
+supports normal vision
+absorbs blue light and scavenges reactive oxygen species in the eye (lens, retina) and, therefore, helps to maintain a healthy retina
+stabilizes membranes and, therefore, contributes to make retinal membranes more resistant against damage by light
+(together with Lutein) is actively accumulated in the healthy macula.
+The highest concentration of carotenoids found in the human body. A sufficient supply therefore contributes to maintaining the integrity and health of this part of the retina which is most essential for optimal visual performance.
+Das Carotinoid Zeaxanthin kommt in hoher Konzentration im menschlichen Auge vor. Dort schützt es dieses vor oxidativen Schädigungen durch Radikale.
+Zeaxanthin ist ein Beitrag zum Schutz der Augengesundheit.
+Zeaxanthin ist ein Radikalfänger.
+wird (zusammen mit Lutein) aktiv in der gesunden Makula angereichert, die die höchste Konzentration an Carotinoiden im menschlichen Körper aufweist. Eine ausreichende Versorgung hilft, diesen Teil der Retina, der für ein optimales Sehvermögen sehr wichtig
+Zeaxanthin ist ein wichtiges antioxidativ zellschützender vitaminähnlicher Lebensmittelinhaltsstoff für den Menschen mit besonderer Bedeutung für den Lichtschutz.
+Als vergleichsweise schwaches Antioxidans kann Zeaxanthin durch die stärkeren antioxidativen Nährstoffe bzw. körpereigenen Antioxidantien – z. B. die Thiole Glutathion, Cystein und Liponsäure - teilweise gegen Oxidation geschützt werden.
+Umgekehrt gibt es Hinweise, dass eine hohe Zufuhr von Carotinoiden wie Zeaxanthin auch einen positiven Einfluss auf den Status bei den anderen körpereigenen Antioxidantien hat.
+Hohe Mengen an Zeaxanthin sollten aus theoretischen Erwägungen wegen der erforderlichen Regeneration durch die körpereigenen antioxidativen Schutzsysteme zusammen mit anderen antioxidativen Nährstoffen supplementiert werden. Das gilt insbesondere für Personen mit erfahrungsgemäß schlechtem antioxidativem Status (z. B. Raucher, Diabetiker).
+Zeaxanthin ist ein effizienter Fänger von freien Radikalen.
+Nach der antioxidativen Rangordnung der Carotinoide wird Zeaxanthin im Auge erst nach Vitamin E, ß-Carorin, Lycopin und Lutein verbraucht.–Zeaxanthin ist für das Auge wahrscheinlich die letzte Sicherung gegen oxidative Schäden.
+Die natürlich besonders hohe Konzentration von Zeaxanthin in der Netzhautmitte (dem Ort des schärfsten Sehens) spricht für eine besonders wichtige Schutzfunktion beim Schutz der Sehfähigkeit.
+(zusammen mit Lutein) hilft es, das Sehvermögen bei trüben Lichtverhältnissen zu verbessern
+(together with Lutein) helps to improve visual performance at dim lighting conditions
+absorbiert blaues Licht und fängt reaktive Sauerstoffmoleküle im Auge (Linse, Netzhaut) ab und trägt so zum Erhalt einer gesunden Netzhaut bei",Zeaxanthin,maintenance of normal vision,0
+Antioxidants can protect from free radicals and helps in case of foods intake deficiency or increased amount of nutrients. Increases the physiological resistance of the organism in case of severe ambiance conditions,PROPOLIS,"Protection of DNA, proteins and lipids from oxidative damage",1
+"Antioxidants can protect from free radicals and helps in case of foods intake deficiency or increased amount of nutrients. Useful to protect the skin from UV-induced oxidative damage. Helps protect against the free radicals action due to UV exposure or severe ambiance conditions Antioxidants reducing the production of oxidative cholesterol. Protection against the free radicals action due to stress, alcoholics,UV exposure or polluted ambiance conditions.",AMORPHOPHALLUS KONJAC KOCH,"Protection of DNA, proteins and lipids from oxidative damage",1
+"Arginine can contribute to the maintenance of the healthy blood circulation.
+Clarification provided
+Arginine can contribute to the maintenance of the healthy blood circulation.
+Arginine can contribute to the maintance of the normal blood circulation, such as the healthy blood pressure and the haematopoiesis.",L-Arginine,Improvement of endothelium-dependent vasodilation,0
+"Arginine can contribute to the maintenance of the healthy blood circulation.
+Clarification provided
+Arginine can contribute to the maintenance of the healthy blood circulation.
+Arginine can contribute to the maintance of the normal blood circulation, such as the healthy blood pressure and the haematopoiesis.",L-Arginine,Maintenance of normal blood pressure,0
+"Arginine can contribute to the maintenance of the healthy blood circulation.
+Clarification provided
+Arginine can contribute to the maintenance of the healthy blood circulation.
+Arginine can contribute to the maintance of the normal blood circulation, such as the healthy blood pressure and the haematopoiesis.",L-Arginine,Normal red blood cell formation,0
+As a strong antioxidant it protects the body’s cells from the damage caused by free radicals,Superoxide dismutase,"protection of DNA, proteins and lipids from oxidative damage",2
+"As part of a low fat diet, mycoprotein helps maintain normal cholesterol levels that keep your heart healthy",Mycoprotein,maintenance of normal blood LDL-cholesterol concentrations,0
+"Astaxanthin främjar en god magfunktion.#C
+Astaxanthin improves stomach comfort.#C
+Clarification provided
+Astaxanthin improves stomach comfort.#C",Naturligt astaxanthin från den encelliga grönalgen Haematococcus pluvialis,defence against Helicobacter pylori,1
+"BCAAs increase protein synthesis, a vital part of the muscle-building process
+BCAAs support muscle growth",Branched-chain amino acids,growth or maintenance of muscle mass,1
+Banana is a major dietary source of antioxidants Antioxidants from dietary sources contribute to the protection against free radicals which cause cell damage Contributes to the protection of cells and tissues from oxidative damage Help strengthen our body's natural defences against oxidative stress,Banana,"Protection of DNA, proteins and lipids from oxidative damage",2
+"Before and during exercise increase endurance capacity / time to exhaustion / delays fatigue. Provide carbohydrate to muscles to supplement glycogen stores. Ingestion before and during exercise maintains blood glucose. Maintain skills during prolonged exercise Can help improve sprint / jump performance Gives athletes a performance edge During exercise maintains endurance performance / perform for longer. Provides carbohydrate, fluid and electrolytes to maintain hydration and enhances performance during prolonged intermittent exercise. Helps improve performance / a sprint finish at the towards the end of endurance events. Can improve performance even in events lasting less than 1 hour. Endurance performance becomes impaired when dehydration exceeds 2% of body mass",Carbohydrate electrolyte drinks,reduction in the rated perceived exertion/effort during exercise,1
+"Beta-alanine helps enhance total work performed in high intensity training.
+Beta-alanine helps support anaerobic training volume.
+Beta-alanine helps enhance anaerobic workout intensity and work volume in explosive training movements.",Beta Alanine,increase in time to exhaustion,1
+"Beta-alanine increases time-to-exhaustion to help keep you going longer.
+Delays muscle fatigue.",Beta Alanine,increase in time to exhaustion,1
+Beta-alanine supplementation Increases muscle carnosine stores.,Beta-alanine,increase in muscle carnosine stores,1
+Beta-alanine supplementation improves cycling performance,Beta-alanine,increase in physical performance during short-term high-intensity exercise,1
+Beta-alanine supplementation improves exercise performance.,Beta-alanine,increase in physical performance during short-term high-intensity exercise,1
+Beta-alanine supplementation improves muscle work capacity.,Beta-alanine,increase in time to exhaustion,1
+Beta-alanine supplementation increases carnosine stores in fast twitch muscle fibres.,Beta-alanine,increase in muscle carnosine stores,1
+Beta-alanine supplementation increases muscle buffering capacity.,Beta-alanine,increase in physical performance during short-term high-intensity exercise,1
+Beta-alanine supplementation increases muscle buffering capacity.,Beta-alanine,increase in time to exhaustion,1
+Beta-alanine supplementation reduces muscle fatigue.,Beta-alanine,increase in time to exhaustion,1
+"Bifidobacterium cultures enhances natural immune function, helps maintain blood cholesterol",Bifidobacterium (BB12) fortified cultured milk (Hodzeko-Amasi),Maintenance of normal blood LDL-cholesterol concentrations,1
+"Bifidobacterium cultures enhances natural immune function,reduces symptoms of inflammatory bowel conditions",Bifidobacterium (BB12) fortified cultured milk (Hodzeko-Amasi),Reduction of symptoms of inflammatory bowel conditions,1
+Bifidobacterium cultures enhances natural immune function.,Bifidobacterium (BB12) fortified cultured milk (Hodzeko-Amasi),“Natural immune function”,1
+"Blackcurrant seed oil increases HDL cholesterol levels.
+Blackcurrant seed oil reduces LDL cholesterol levels.
+Blackcurrant seed oil improves the HDL/LDL ratio.
+Blackcurrant seed oil supports cardiovascular health by regulating fat metabolism and blood pressure.",Blackcurrant seed oil (carbon dioxide extracted) + vitamin E.,maintenance of normal blood LDL-cholesterol concentrations,1
+"Blackcurrant seed oil increases HDL cholesterol levels.
+Blackcurrant seed oil reduces LDL cholesterol levels.
+Blackcurrant seed oil improves the HDL/LDL ratio.
+Blackcurrant seed oil supports cardiovascular health by regulating fat metabolism and blood pressure.",Blackcurrant seed oil (carbon dioxide extracted) + vitamin E.,maintenance of normal blood pressure,1
+"Blackcurrant seed oil regulates the immune response.
+Blackcurrant seed oil maintains and supports the body’s normal defence system.",Blackcurrant seed oil (carbon dioxide extracted) + vitamin E.,“Immune function/immune system”,0
+"Blackcurrent juice helps to:
+- improve the urinary tract immune function.
+- support the normal functionning of the urinary tract.",Black Currant juice,“Maintenance of urinary tract”,0
+"Blend of ingredients clinically shown to help enhance creatine uptake into muscle
+University tests show that a blend of creatine and high-glycemic carbohydrate promotes creatine uptake and storage in muscle tissue","Creatine plus Carbohydrate (dextrose, sugar)",Increase in muscle creatine stores,1
+Boron is important for the normal structure of bone.,Boron,maintenance of bone,0
+"Brings energy / Stimulates the psychical activity and improves the capacity of the intellectual effort. / Increases intracellular energetic mechanisms. / Helps in periods of convalescence. / Brings energy in periods of prolonged physical and intellectual effort, in acute or chronic fatigue. / Prevents fatigue and sustains the organism's effort in periods of stress. / Reduces the incidence of neoplasic diseases. / Interferes in all metabolic chains, activating them. / Improves the quality of the life of the persons with cardiac diseases. / Increases the resistance to effort and reduces the frequency and intensity of the cardiac ache.",Coenzyme Q10,contribution to normal energy-yielding metabolism,1
+Broccoli sprouts contain SGS (Sulphoraphane glucosinolate) which enhances anti-oxidant activity and boosts the elimination of free radicals.,Sulphoraphane Glucosinolate,"Protection of DNA, proteins and lipids from oxidative damage",1
+"Caffeine can increase resting metabolic rate.
+Caffeine supports thermogenesis and energy oxidation.",Caffeine,Increased energy expenditure leading to a reduction in body weight,1
+Calcium contributes to normal functioning of cells.,Calcium,&quot;cell membrane permeability&quot;,0
+"Can accelerate recovery from exercise can help to recover faster
+can shorten the time to recover completely
+can help to enhance endurance performance
+can help to perform longer
+can support endurance performance
+can increase;endurance performance
+can increase time to fatigue;during exercise
+can help to enhance physical;performance
+can help to perform better
+can support;physical performance
+can help to increase physical performance
+can help to reduce exercise induced muscle damage
+can help to reduce exercise induced muscle pain
+can protect muscle during exercise",Casein protein hydrolysate,increase in endurance performance,1
+"Can accelerate recovery from exercise can help to recover faster
+can shorten the time to recover completely
+can help to enhance endurance performance
+can help to perform longer
+can support endurance performance
+can increase;endurance performance
+can increase time to fatigue;during exercise
+can help to enhance physical;performance
+can help to perform better
+can support;physical performance
+can help to increase physical performance
+can help to reduce exercise induced muscle damage
+can help to reduce exercise induced muscle pain
+can protect muscle during exercise",Casein protein hydrolysate,faster recovery from muscle fatigue after exercise,1
+Can contribute to maintain normal blood pressure,Coenzyme Q10;ubiquinone,maintenance of normal blood pressure,0
+Can contribute to the maintenance of prostate health; Can contribute to the maintenance of the healthy function of prostate.,Tomato extract containing lycopene,"protection of DNA, proteins and lipids from oxidative damage",0
+Can contribute to the maintenance of skin health when exposed to sun.; Can help in the maintenance of healthy structure of the skin;,Tomato extract containing lycopene,protection of the skin from UV-induced (including photo-oxidative) damage,0
+Can help in the maintenance of the healthy function of the cardiovascular system.,Tomato extract containing lycopene,contribution to normal cardiac function,0
+Can help to maintain a normal bowel function as part of a healthy lifestyle,Isomalto-oligosaccharides,increase in the frequency of daily bowel movements,0
+"Can increase L-Carnitine levels during pregnancy and lactation.
+Can help decrease free fatty acids during pregnancy.
+Can maintain normal L-Carnitine plasma levels during pregnancy.",Carnitine,increasing L-carnitine concentrations and/or decreasing free fatty acids in blood during pregnancy,1
+"Chlorogenic acids from coffee extract contributes to keep normal blood glucose levels;
+Chlorogenic acids from coffee extract has a beneficial effect on glucose metabolism/ insulin metabolism.",Chlorogenic acids from Coffee,maintenance of normal blood glucose concentrations,0
+"Choline supports normal neurological functioning.
+Choline supports nerve impulse transmission.
+Choline supports cognitive functioning.
+Choline helps maintain memory and brain function.",Choline,Contribution to normal cognitive function,0
+"Choline supports normal neurological functioning.
+Choline supports nerve impulse transmission.
+Choline supports cognitive functioning.
+Choline helps maintain memory and brain function.",Choline,Maintenance of normal neurological function,0
+"ClarinolTM is a unique source of the active form of CLA (conjugated linolenic acid) that reduces the body fat without reducing muscle mass, it reduces subcutaneous fat and the excess weight is gone for good. ClarinolTM prevents fat redeposition (anti yoyo efect). ClarinolTM influences the metabolism speed increase and suppresses its decline particularly at night.",ClarinolTM,contribution to the maintenance or achievement of a normal body weight,1
+Coenzyme Q10 may enhance the physical endurance.;Coenzyme Q10 may enhance sport performance in those who have reduced performance but are free from organic lesions,Coenzyme Q10;(Ubiquinone),increase in endurance capacity and/or endurance performance,1
+Collagen can/could contribute to the maintenance of the healthy function of joints.,Collagen,maintenance of normal joints,0
+"Collagen is a natural component of the skin.
+Helps the skin to preserve its firmness and elasticity.
+Has beneficial effect in the maintenance of skin firmness and elasticity.",Collagen,Maintenance of structure and elasticity of the skin,0
+"Combat la formation des radicaux libres
+Protection cellulaire active
+Nourrit et protège la peau
+Protège la peau des agressions extérieures
+Active et prolonge le bronzage
+Clarification provided
+Helps to keep the skin healthy/helps to retard skin aging
+Helps to protect your skin from excessive UV-radiation and sunburns
+Can promote healthy skin pigmentation and tanning
+Antioxidant that protects the body's cells/Has an antioxidant action that helps to neutralize free radicals and counteracts cellular ageing",Carotte racine,"protection of DNA, proteins and lipids from oxidative damage",2
+"Combined creatine and carbohydrate increases muscle creatine stores compared to creatine alone.
+Helps deliver creatine to the muscle effectively.
+Creatine retention is increased when consumed with carbohydrate.",Creatine and carbohydrate,Increase in muscle creatine stores,1
+"Con proteina concentrata di fagiolo che AIUTA A DIMAGRIRE.
+Clarification provided
+With concentrated bean proteins, which contributes to weight reduction.",Phaseolamine (proteina concentrata di fagiolo Phaseolus vulgaris),reduction in body weight,2
+"Conditionally-essential amino acid that plays an important role in the growth and immune system.
+It supports tissue growth acceleration.",Arginine,“Immune system functions”,2
+"Consumption before and during exercise enhances feelings of energetic arousal which may impact on task persistence and performance
+Reduces the perception of athletic fatigue
+Helps maintain alertness / mood
+Helps reduce the perception of effort, making you feel better during exercise
+A high carbohydrate diet helps to reduce feelings of fatigue / perceived effort during prolonged exercise",Carbohydrate foods and beverages,reduction in the rated perceived exertion/effort during exercise,1
+"Consumption before and during exercise enhances feelings of energetic arousal which may impact on task persistence and performance Helps reduce the perception of effort, making you feel better during exercise Reduces the perception of athletic fatigue. Helps maintain alertness during later stages of exercise Helps improve readiness/ motivation Helps enhance feelings of pleasure",Carbohydrate electrolyte drinks,reduction in the rated perceived exertion/effort during exercise,1
+"Consumption of Medium Chain Triglycerides (MCT) inside the normal suggested fat consumption contributes to keep the healthy balanced body weight and helps to avoid fat deposition, with special regards to the abdominal fat.;;MCT helps to increase energy expenditure in comparison to the long chain fatty acides by increasing the metabolic rate.",Medium Chain Triglycerides;;MCT;,reduction in body weight,1
+Consumption of whey in conjunction with resistance exercise supports an increase in lean body mass and strength.,Whey Prot*omegaein,growth or maintenance of muscle mass,1
+Consumption of whey in conjunction with resistance exercise supports an increase in lean body mass and strength.,Whey Prot*omegaein,increase in muscle strength,1
+"Contains antioxidant/s; Is a source of antioxdiant/s. With antioxidant/s. Contributes to the cell protection against free radicals 
+Can protect your cells and tissues from oxidation Can contribute to the total antioxidant capacity of the body",Lycium Barbarum (Common Name : Wolfberry),"Protection of DNA, proteins and lipids from oxidative damage",2
+"Contains chlorophyll, a natural anti-oxidant giving enhanced defence against free radicals.",Chlorophyll in sprouted seed,"Protection of DNA, proteins and lipids from oxidative damage",1
+"Contains naturally occurring antioxidants /for cells protection/helps protect cells from free radical damage, Lycopene is an antioxidant and helps to maintain intact cell DNA, it contributes to healthy ageing, by maintaining intact cell DNA","Standardized tomato extract [Oleoresin extracted from ripe fruits of Licopersicum aesculentum, solvent of extraction Ethyl acetate, 5% lycopene","protection of DNA, proteins and lipids from oxidative damage",2
+"Contribue à stimuler l'activité intellectuelle et à renforcer la mémoire. A utiliser en cas d'efforts intellectuels.
+Favorise les facultés de concentration.
+Clarification provided
+May improve memory/may improve cognitive performance/ phospholipids play a role in healthy brain functions/supports memory and concentration/increase concentration and make the memory more effective.",Laitance de poisson,contribution to normal cognitive function,1
+"Contribue à un bon cholestérol. Aide à maîtriser le cholesterol.
+Clarification provided
+Oyster shells are rich source of calcium that contributes to healthy blood cholesterol level/ Oyster shells are a rich source of calcium that helps to maintain normal cholesterol level/Oyster shells are a rich source of calcium that decreases LDL cholesterol and increase HDL cholesterol.",Coquille d'huître,maintenance of normal blood HDL-cholesterol concentrations,1
+"Contribue à un bon cholestérol. Aide à maîtriser le cholesterol.
+Clarification provided
+Oyster shells are rich source of calcium that contributes to healthy blood cholesterol level/ Oyster shells are a rich source of calcium that helps to maintain normal cholesterol level/Oyster shells are a rich source of calcium that decreases LDL cholesterol and increase HDL cholesterol.",Coquille d'huître,maintenance of normal blood LDL-cholesterol concentrations,1
+"Contribue à un bon cholestérol. Aide à maîtriser le cholesterol.
+Clarification provided
+Oyster shells are rich source of calcium that contributes to healthy blood cholesterol level/ Oyster shells are a rich source of calcium that helps to maintain normal cholesterol level/Oyster shells are a rich source of calcium that decreases LDL cholesterol and increase HDL cholesterol.",Coquille d'huître,maintenance of normal blood HDL-cholesterol concentrations,1
+"Contribue à un bon cholestérol. Aide à maîtriser le cholesterol.
+Clarification provided
+Oyster shells are rich source of calcium that contributes to healthy blood cholesterol level/ Oyster shells are a rich source of calcium that helps to maintain normal cholesterol level/Oyster shells are a rich source of calcium that decreases LDL cholesterol and increase HDL cholesterol.",Coquille d'huître,maintenance of normal blood LDL-cholesterol concentrations,1
+Contribute to a normal intestinal fonction through promotion of beneficial microflora/helps to manage diarrhea episodes/has an anti-diarrheal effect through anti-microbial activity on pathogenic intestinal bacteria.,Brewer's yeast (Saccharomyces cerevisae),reduction of gastro-intestinal discomfort,0
+"Contributes to cell protection form the damage caused by free radical, due to its antioxidant properties. Helps to protect the body against free radicals. Provides antioxidant protection. Protects the body's cells. Can protect you from radicals which cause cell damage. Can protect your cells and tissues from oxidative damage. Can contribute to the total antioxidant capacity of the body.",Purslane (Portulaca oleracea L.),"Protection of DNA, proteins and lipids from oxidative damage",2
+Contributes to enhance your body's resistance;,Triticum sativum,“contribution to body defences against external agents”,1
+"Contributes to maintenance of healthy skin, joints and bone.
+-Contributes to maintenance of strong hairs and nails.
+-Contributes to the structure of blood vessels.
+-Supports mobility and flexibility by contribution to the structure of articular cartilage",Monométhylsilanetriol: other substance with nutritionnal or physiological effects,maintenance of normal bone,0
+"Contributes to maintenance of healthy skin, joints and bone.
+-Contributes to maintenance of strong hairs and nails.
+-Contributes to the structure of blood vessels.
+-Supports mobility and flexibility by contribution to the structure of articular cartilage",Monométhylsilanetriol: other substance with nutritionnal or physiological effects,contribution to normal formation of collagen and connective tissue,0
+"Contributes to maintenance of healthy skin, joints and bone.
+-Contributes to maintenance of strong hairs and nails.
+-Contributes to the structure of blood vessels.
+-Supports mobility and flexibility by contribution to the structure of articular cartilage",Monométhylsilanetriol: other substance with nutritionnal or physiological effects,maintenance of normal joints,0
+"Contributes to management of weight control
+-can help in the reduction of body weight
+-can help to the control of weight by reducing the quantity of fat absorbed from the diet",Chitosan,reduction in body weight,2
+Contributes to normal functioning of prostate and urinary tract,"Phytosterols (mixture of Beta-sitosterol, Campesterol, Stigmasterol, Brassicasterol, Stigmastanol, Ergostanol, Campestanol)",maintenance of normal prostate size and normal urination,0
+Contributes to normal functioning of urinary tract,"Phytosterols (mixture of Beta-sitosterol, Campesterol, Stigmasterol, Brassicasterol, Stigmastanol, Ergostanol, Campestanol)",maintenance of normal prostate size and normal urination,0
+Contributes to normal hair growth,Cystine (wheat extract),maintenance of normal hair,0
+Contributes to normal urinary elimination functions,Lycopodium clavatum,"“Kidneys health”, “urinary health”, “bladder health”, “health of lower urinary tract”, “blood health”, “elimination”, &quot;urinary system benefits&quot; and/or “supports/promotes the excretory function of the kidney”",0
+"Contributes to the maintenance of a healthy cardiovascular system.
+Maintains cardiovascular health",Tomato extract containing lycopene,"protection of DNA, proteins and lipids from oxidative damage",0
+Contributes to the maintenance of healthy skin when exposed to sun light. (Avoid sunburns by using an effective sun screen. Lycopene is not a replacement for sun screens).,Lycopene,protection of the skin from UV-induced (including photo-oxidative) damage,0
+"Contributes to the mobilisation of fat stores.
+Contributes ton the stimulation of fat release.
+Helps to increase fat burning.
+Contributes to the oxidation of stored fats.
+Helps generate a negative energy balance.
+Contributes to increased calorie burning.",Caffeine (from tea/coffee/chocolate or added in pure form),increased fat oxidation leading to a reduction in body fat mass,1
+"Contributes to the normal functioning of the immune system.
+Helps maintain the body's natural defences",Bromelain,Stimulation of immunological responses,0
+Contributes to the normal functioning of the immune system/supports natural defences,Nucleotides,immune defence against pathogens,0
+Contributes to the normal functioning of the prostate/helps to maintain a healthy prostate/helps to keep your prostate in shape/helps to reduce oxidative damage of prostate cells and tissue/helps to maintain intact DNA in prostate tissue,Lycopene,"protection of DNA, proteins and lipids from oxidative damage",0
+Contributes to the normal functioning of the veins.,Troxerutin,maintenance of elasticity and strength of the venous walls,0
+Could contribute to the maintenance of the health of epidermic and connective tissue.,Gamma- linolenic acid;GLA,Maintenance of the barrier function of the skin,0
+Creatine can help enhance physical working capacity at fatigue threshold,Creatine,increase in endurance capacity,1
+Decreases lipid levels / Function in regulation of lipid metabolism / Reduces lipids and LDL-cholesterol levels,Omega 3-Fatty acids containing eicosapentaenoic acid-EPA and docosahexaenoic acid (DHA),maintenance of normal blood LDL-cholesterol concentrations,1
+"Delay onset of fatigue.
+Improves short-duration high intensity performance with lactic acid buffer.
+Increases muscle carnosine, the intracellular buffering agent proposed to be responsible for the beneficial effects on short-duration high intensity exercise.",Beta Alanine,increase in physical performance during short-term high-intensity exercise,1
+Dietary fibre helps to maintain normal blood lipid levels and a healthy cardiovascular system,Dietary fibre,maintenance of normal blood cholesterol concentrations,0
+"Dietary nucleotides are conditionally essential nutrients that provide building blocks for new cells.
+Dietary nucleotides:
+- promote general wellbeing [and/or]
+- enhance the body’s immunity [and/or]
+- help promote normal/proper digestive/intestinal function",Nucleotides,immune defence against pathogens,1
+Dietary nucleotides enhance immune system function following exercise stress,Nucleotides,“immune function/immune system”,1
+"Due to its antioxidant activity, resveratrol contributes to cell protection from the damage caused by free radicals. 
+Provides antioxidant protection. Helps to scavenge free radicals which are responsible for skin aging. Helps to fight against skin aging thanks to its antioxidant activity.",Resveratrol,"Protection of DNA, proteins and lipids from oxidative damage",2
+"Due to the antioxidant properties lutein/ zeaxanthin/ contributes to the hindrance of harmful oxidative processes in the body, in this way to the maintenance of our health/ to the defence of the tissues.",Lutein/;Zeaxanthin,"protection of DNA, proteins and lipids from oxidative damage",0
+"EAS Phosphagen Elite is clinically shown to boost muscular strength
+EAS Phosphagen Elite is clinically shown to increase strength by up to 15%
+EAS Phosphagen Elite is designed to boost overall muscular strength
+Boost muscular strength",EAS Phosphagen Elite,growth or maintenance of muscle mass,1
+"EAS Phosphagen Elite is clinically shown to increase anaerobic threshold EAS Phosphagen Elite is clinically shown to increase physical
+working capacity at fatigue threshold",EAS Phosphagen Elite,Increase in endurance capacity,1
+"EAS Phosphagen Elite is designed to provide a higher quality workout,
+and the addition of beta alanine appears to enhance average training
+volume more so than creatine alone
+EAS Phosphagen Elite is clinically shown to result in greater training volume threshold",EAS Phosphagen Elite,Increase in endurance capacity,1
+"EAS Phosphagen Elite is designed to provide a higher quality workout,
+and the addition of beta alanine appears to enhance average training
+volume more so than creatine alone
+EAS Phosphagen Elite is clinically shown to result in greater training volume threshold",EAS Phosphagen Elite,increase in endurance performance,1
+"EAS Phosphagen HP is clinically shown to increase strength
+EAS Phosphagen HP is clinically shown to boost muscular strength
+EAS Phosphagen HP is designed to boost overall muscular strength",EAS Phosphagen HP,growth or maintenance of muscle mass,1
+Eating a diet high in fiber can help control postprandial glucose levels and serum lipid profiles and promote healthy triglyceride levels Dietary fiber helps improve glycemic control so you maintain normal blood sugar and insulin levels essential for good health PHGG helps to regulate plasma glucose levels and glycemic index of the foods after meals.,Partially Hydrolysed Guar Gum (PHGG),Reduction of post-prandial glycaemic response,0
+Enhances resistance and stimulates the growth of hair and nails. / Hair and nails revitalizing agent,L/cysteine,contribution to normal collagen formation,1
+Enhances resistance and stimulates the growth of hair and nails. / Hair and nails revitalizing agent,L/cysteine,maintenance of normal hair,1
+Enhances resistance and stimulates the growth of hair and nails. / Hair and nails revitalizing agent,L/cysteine,maintenance of normal nails,1
+"Ensures normal functioning of the body’s organ tissues and systems, particularly in old age - Stimulates physical work capacities - Recommended in case of intense fatigue and during recovery",Biotin,reduction of tiredness and fatigue,0
+"Essential amino acid, needed for the synthesis of proteins necessary for maintenance of the body/ body tissues (collagen, teeth, bones and muscles)/ body function.
+Increases absorption, action and fixation of calcium, essential for optimal muscle, bone and teeth.",Lysine,Contribution to normal protein synthesis,1
+"Essential amino acid, needed for the synthesis of proteins necessary for maintenance of the body/ body tissues (collagen, teeth, bones and muscles)/ body function.
+Increases absorption, action and fixation of calcium, essential for optimal muscle, bone and teeth.",Lysine,Increase in calcium absorption leading to an increase in calcium retention,1
+"Essential for the natural formation of dopamine, required for normal muscle function and contraction",L-tyrosine,contribution to normal muscle function,0
+"Exact wording of claim as it appears on product: Blueberries have a wide range of health benefits including anti-ageing properties and the maintenance of urinary tract and vision health.
+Is claim a picture: No.","Name of Food product: Sqeez Wild Blueberry Juice Drink
+
+Description of food in terms of food legislation categories: food not covered by specific food legislation
+
+Was food on Irish market before 1st July 2007: Yes",“Anti- aging properties”,0
+"Exact wording of claim as it appears on product: Blueberries have a wide range of health benefits including anti-ageing properties and the maintenance of urinary tract and vision health.
+Is claim a picture: No.","Name of Food product: Sqeez Wild Blurberry Juice Drink
+
+Description of food in terms of food legislation categories: food not covered by specific food legislation
+
+Was food on Irish market before 1st July 2007: Yes",“Maintenance of urinary tract”,0
+"Exact wording of claim as it appears on product: Enhances natural resistance.
+Strengthen your immunity.
+Is claim a picture: No.","Name of Food product: fermented dairy products
+
+Description of food in terms of food legislation categories: food not covered by specific food legislation
+
+Was food on Irish market before 1st July 2007: Yes",“Immune function/immune system”,1
+"Exact wording of claim as it appears on product: Helps manage blood glucose and insulin levels.
+Examples of any alternative wording that may be used in relation to claim: Reduces heightened glycaemic index/Blunts glucose and insuin elevation/Reduces the glycaemic load of a meal/Helps maintain a normal blood glucose level as part of a healthy lifestyle/Contributes to normal blood glucose levels as part of a healthy lifestyle/Contributes to normal glucose/insulin metabolism/Helps control blood glucose levels/Supports maintenance of normal glucose levels.
+Is claim a picture: No.","Name of Food product: Product-specific claim: Sodium alginate and ascophyllum nodosum
+
+Description of food in terms of food legislation categories: food not covered by specific food legislation
+
+Was food on Irish market before 1st July 2007: No",reduction of post-prandial glycaemic responses,1
+"Exact wording of claim as it appears on product: Helps manage blood glucose levels.
+Examples of any alternative wording that may be used in relation to claim: Reduces heightened glycaemic index/Blunts glucose elevation/Reduces glycaemic load of a meal/Helps maintain a normal blood glucose level as part of a healthly lifestyle/Contributes to normal glucose metabolism/Helps control blood glucose levels/Supports maintenance of normal glucose levels.","Name of Food product: Product-specific claim: Sodium alginate and ascophyllum nodosum
+
+Description of food in terms of food legislation categories: food not covered by specific food legislation
+
+Was food on Irish market before 1st July 2007: No",reduction of post-prandial glycaemic responses,1
+"Exact wording of claim as it appears on product: Methylsulpony/methane (MSM) helps in the maintenance of normal keratin levels in hair, skin and nails. Examples of any alternative wording that may be used in relation to claim: Methylsulpony/methane (MSM) helps in the maintenance of normal keratin levels in hair, skin and nails. Help keep your hair nails and skin healthy and strong. Is claim a picture: No","Name of Food product: methylsulpony/methane (MSM)
+
+Description of food in terms of food legislation categories: Food supplement
+
+Was food on Irish market before 1st July 2007: No",contribution to normal collagen formation,0
+"Exact wording of claim as it appears on product: Methylsulpony/methane (MSM) helps in the maintenance of normal keratin levels in hair, skin and nails. Examples of any alternative wording that may be used in relation to claim: Methylsulpony/methane (MSM) helps in the maintenance of normal keratin levels in hair, skin and nails. Help keep your hair nails and skin healthy and strong. Is claim a picture: No","Name of Food product: methylsulpony/methane (MSM)
+
+Description of food in terms of food legislation categories: Food supplement
+
+Was food on Irish market before 1st July 2007: No",maintenance of normal hair,0
+"Exact wording of claim as it appears on product: Methylsulpony/methane (MSM) helps in the maintenance of normal keratin levels in hair, skin and nails. Examples of any alternative wording that may be used in relation to claim: Methylsulpony/methane (MSM) helps in the maintenance of normal keratin levels in hair, skin and nails. Help keep your hair nails and skin healthy and strong. Is claim a picture: No","Name of Food product: methylsulpony/methane (MSM)
+
+Description of food in terms of food legislation categories: Food supplement
+
+Was food on Irish market before 1st July 2007: No",maintenance of normal nails,0
+"Exact wording of claim as it appears on product: Splenda can help with slimming as part of a calorie controlled diet.
+Splenda is also suitable for those following a low carbohydrate diet. In France, 'peut contributer a une reduction de l'apport calorique quotidien'
+Examples of any alternative wording that may be used in relation to claim: Splenda low calorie sweetener can help to maintain a healthy body weight as part of a calorie-controlled diet. Splenda low calorie sweetener helps to control calorie intake as part of a calorie controlled diet.
+Is claim a picture: No",Name of Food product: Low Calorie Sweetener / Table-top Sweetener (Granular & tablets - sucralose based) Description of food in terms of food legislation categories: food not covered by specific food legislation Was food on Irish market before 1st July 20,contribution to the maintenance or achievement of a normal body weight,2
+Exact wording of claim as it appears on product: Supports body detoxification Examples of any alternative wording that may be used in relation to claim: Rids toxins from the body/Aids colonic health/Protects the colon/Cleanses the body/Helps maintain a healthy colon/Promotes healthy conditions in the colon/Detoxes the body Is claim a picture: No,"Name of Food product: Product-specific claim: sodium alginate, n-acetyl cysteine and piperine
+
+Description of food in terms of food legislation categories: food not covered by specific food legislation
+
+Was food on Irish market before 1st July 2007: No",elimination of heavy metals,2
+Exact wording of claim as it appears on product: Triphala is a source of antioxidant Examples of any alternative wording that may be used in relation to claim: Has antioxidant activies/ has antioxidant activity/ protection from free radicals which cause cell damage/protects cells and tissues from oxidative damage/helps strengthen the bodys natural defenses against oxidative stress/protective effects due to antioxidant/ contributes to the total antioxidant capacity of the body/ helps prevent oxidative damage/Helps reduce oxidative stress Is claim a picture: No,"Name of Food product: Triphala
+
+Description of food in terms of food legislation categories: Food supplement
+
+Was food on Irish market before 1st July 2007: No","Protection of DNA, proteins and lipids from oxidative damage",2
+"Exact wording of claim as it appears on product: gelatin, cystine significantly strengthens hair, skin and nails
+Examples of any alternative wording that may be used in relation to claim: Gelatin and cystine significantly increases hair diameter and the degree of hardness of finger and toe nails.","Name of Food product: gelatin & cystine
+
+Description of food in terms of food legislation categories: Food supplement
+
+Was food on Irish market before 1st July 2007: No",Maintenance of normal structure and appearance of hair and nails,1
+"Exact wording of claim as it appears on product: gelatin, cystine significantly strengthens hair, skin and nails
+Examples of any alternative wording that may be used in relation to claim: Gelatin and cystine significantly increases hair diameter and the degree of hardness of finger and toe nails.","Name of Food product: gelatin & cystine
+
+Description of food in terms of food legislation categories: Food supplement
+
+Was food on Irish market before 1st July 2007: No",Maintenance of structure and elasticity of the skin,1
+Eye protection factor(s),Lutein/zeaxanthin,maintenance of normal vision,2
+"Favorisce il riequilibrio dell’ecosistema intestinale
+Clarification provided
+- contributes to the rebalancing of intestinal microflora;
+- reduces gastro-intestinal discomfort in Irritable Bowel Syndrome;
+- reduces gastro-intestinal discomfort in functional disorders of the gut;
+- reduces gastro-intestinal symptoms in Irritable Bowel Syndrome, especially in IBS-predominant diarrhea;
+- reduces gastro-intestinal symptoms in functional disorders of the gut, especially in IBS-predominant diarrhea.",<em>Lactobacillus paracasei </em> B21060*,Decreasing potentially pathogenic gastro-intestinal microorganisms,1
+"Favorisce il riequilibrio dell’ecosistema intestinale
+Clarification provided
+- contributes to the rebalancing of intestinal microflora;
+- reduces gastro-intestinal discomfort in Irritable Bowel Syndrome;
+- reduces gastro-intestinal discomfort in functional disorders of the gut;
+- reduces gastro-intestinal symptoms in Irritable Bowel Syndrome, especially in IBS-predominant diarrhea;
+- reduces gastro-intestinal symptoms in functional disorders of the gut, especially in IBS-predominant diarrhea.",<em>Lactobacillus paracasei </em> B21060*,maintenance of a normal intestinal transit time,1
+"Favorisce il riequilibrio dell’ecosistema intestinale
+Clarification provided
+- contributes to the rebalancing of intestinal microflora;
+- reduces gastro-intestinal discomfort in Irritable Bowel Syndrome;
+- reduces gastro-intestinal discomfort in functional disorders of the gut;
+- reduces gastro-intestinal symptoms in Irritable Bowel Syndrome, especially in IBS-predominant diarrhea;
+- reduces gastro-intestinal symptoms in functional disorders of the gut, especially in IBS-predominant diarrhea.",<em>Lactobacillus paracasei </em> B21060*,reducing gastro-intestinal discomfort,1
+"Fibersol-2 helps to maintain normal bowel function.
+Fibersol-2 maintains intestinal regularity.
+Fibersol-2 supports bowel function and gut comfort.","Fibersol-2™
+
+Brand name Pinefiber® in Japan (Chemical name in Japan: Indigestible dextrin.
+Also called resistant dextrin within the European Union)",Changes in bowel function,0
+"Flavonoids, especially catechins from green tea, reduce the absorption of carbohydrates by 25%. Carbohydrates account for 49% of total energy. Thus the weight slimming effect is a total of 12%.
+Reduces visceral fat","Flavonoids from green tea, apple and onion",contribution to the maintenance or achievement of a normal body weight,1
+"Folic acid protects the eye
+Folic acid important for the eye",Folic Acid,maintenance of normal vision,2
+For eye health - promotes maintenance of vision apparatus functions Improves dark adaptation Strengthens eye capillaries Reduces eye tiredness in case of vision exertion,Daucus carota (Carrot),maintenance of vision,1
+"For joint maintenance
+Helps maintain proper functioning of joints, tendons and ligaments",Methylsulfonylmethane (MSM),maintenance of joints,0
+"For stomach health.
+Sooths the stomach
+Protects the stomach’s mucous membranes.",Silicon,forming a protecting coat on the mucus membrane of the stomach,2
+"For stomach health.
+Sooths the stomach
+Protects the stomach’s mucous membranes.",Silicon,neutralisation of gastric acid,2
+Free radicals neutralisation actions.,Cordyceps sinensis-fungus larvae-mycelium,"antioxidant activity, antioxidant content, and antioxidant properties",2
+"Fructooligosaccharides/oligofructose enhance/promote/
+increase magnesium absorption
+Fructooligosaccharides/oligofructose enhance/promote/
+increase magnesium absorption
+Fructooligosaccharides/oligofructose
+support isoflavone activity on bone health",Fructooligosaccharides from sucrose,increasing calcium and/or magnesium absorption leading to an increase in magnesium and/or calcium retention,1
+"GLA balances skin moisture content, keeps the skin smooth, reduces itching, and soothes skin irritation.",Gamma Linolenic acid (GLA) from Evening primrose Oil,Maintenance of the barrier function of the skin,1
+GLA contributes to maintenance of normal skin cell structure and elasticity,Borage oil (GLA= gamma linolenic acid),Maintenance of normal structure and appearance of the skin,0
+GLA supports weight management GLA reduces re-gaining weight after dieting,Gamma linolenic acid,Weight maintenance after weight loss,1
+"Glutamine may improve intestinal water and electrolyte absorption
+Glutamine can help volumize muscle cells
+Glutamine may increase cell swelling (volume)",Glutamine,growth or maintenance of muscle mass,1
+"Good source of antioxidants
+Contains naturally occuring antioxidants
+Has antioxidant properties
+Acts as an antioxidants
+Contributes to the protection against oxidation
+Helps increase the antioxidative capacity of the body
+Helps preventing oxidation
+Antioxidants help protect you from free radicals Antioxidants help protect your cells and tissues from oxidation
+Antioxidants contribute to the total antioxidant capacity of the body
+Antioxidants help to protect your body by reinforcing the body's natural defence against the effects of free radicals",Citrullus lunatus  (Watermelon) extract - ACTI-08,"protection of DNA, proteins and lipids from oxidative damage",1
+Guava is a major dietary source of antioxidants Antioxidants from dietary sources contribute to the protection against free radicals which cause cell damage contributes to the protection of cells and tissues from oxidative damage help strengthen our body's natural defences against oxidative stress,Guava,"Protection of DNA, proteins and lipids from oxidative damage",2
+Guava is a major dietary source of antioxidants/ Antioxidants from dietary sources contribute to the protection against free radicals which cause cell oxidation/ Contributes to the protection of cells and tissues from oxidation/ Help strengthen our body's natural defences against oxidative stress,Guava,"Protection of DNA, proteins and lipids from oxidative damage",2
+"Guava is a major source of lycopene.
+Lycopene from dietary sources contributes to the maintenance of healthy skin.",Guava,protection of the skin from UV-induced (including photo-oxidative) damage,0
+"Guava is a major source of lycopene/
+Lycopene from dietary sources contributes to the maintenance of healthy skin, when exposed to sun light (Avoid sunburns by using an effective sun screen. Lycopene is not a replacement for sun screens)/
+helps to reduce skin reddening when exposed to sun light (Avoid sunburns by using an effective sun screen. Lycopene is not a replacement for sun screens)",Guava,protection of the skin from UV-induced (including photo-oxidative) damage,0
+Gum acacia contributes to lower the glycemix response gum acacia contribute to control blood glucose and insuline levels gum acacia is suitable for diabetics diet gum acacia helps to reduce calorie intake,Acacia gum (gum arabic),Maintenance of normal blood glucose concentrations,2
+Gum acacia contributes to lower the glycemix response gum acacia contribute to control blood glucose and insuline levels gum acacia is suitable for diabetics diet gum acacia helps to reduce calorie intake,Acacia gum (gum arabic),Reduction of post-prandial glycaemic response,2
+HMB can increase gains in lean body mass during resistance training,HMB,increase in lean body mass,1
+"HMB helps to enhance muscle energetics and recuperation.
+HMB helps with muscle energetics and recuperation",HMB (B-hydroxy B-methylbutyrate monohydrate),faster recovery from muscle fatigue after exercise,1
+"HMB helps to reduce muscle protein breakdown following exercise
+Ingredient clinically shown to support protection of muscles from breakdown following exercise
+HMB helps to reduce exercise-induced muscle tissue breakdown.",HMB (B-hydroxy B-methylbutyrate monohydrate),reduction of muscle tissue damage during exercise,2
+HMB increases muscle strength when taken during a resistance training program.,"HMB and
+HMB/KIC combinations",increase in muscle strength,1
+HMB may help increase the onset of blood lactate accumulation and VO2 peak.,HMB (B-hydroxy B- methylbutyrate monohydrate),increase in endurance performance,1
+"HMB supplementation can reduce muscle breakdown after intense training.
+HMB reduces the loss of muscle proteins after intense training",HMB and HMB/KIC combinations,reduction of muscle tissue damage during exercise,1
+HMB supplementation maintains normal muscle repair after training,"HMB and
+HMB/KIC combinations",skeletal muscle tissue repair,0
+"HMB supports strength
+HMB has been shown to
+increase strength.
+HMB has the ability to enhance muscular strength
+Ingredient clinically shown to help boost strength
+Boost muscular strength",HMB (B- hydroxy B- methylbutyrate monohydrate),increase in muscle strength,1
+"Healthy for the stomach.
+Protects the gut.",Sea buckthorn berry oil (cold-pressed),“Gut health”,2
+"Help relieving intestinal discomfort Reinforce the Intestinal Barrier,              
+Intestinal support for travelers,               
+ Improve intestinal comfort in travellers, Normalize intestinal transit","Combination of Probiotics (<em>Lactobacillus helveticus</em> CNCM I-1722, <em>Lactobacillus rhamnosus</em> CNCM I-1720, <em>Bifidobacterium longum</em> CNCM I-3470 and Saccharomyces cerevisiae boulardii )","A combination of L. rhamnosus CNCM I-1720, L. helveticus CNCM I-1722, B. longum subsp. longum CNCM I-3470 and S. cerevisiae var. boulardii CNCM I-1079 and defence against pathogenic gastro-intestinal microorganisms",0
+"Helps burn fat faster and thus improves physical performance. / Helpful in decreasing the LDL-colesterol level / Helpful in decreasing colesterol’s blood levels / In diets, supplemented by a food diet and phisical exercices. / Accelerate the fatty acid import into mitochondria, which leads to a faster oxidation, favoring an efficient weight decrease as well as increasing of effort resistance.",L/carnitine,increase in endurance capacity,1
+"Helps burn fat faster and thus improves physical performance. / Helpful in decreasing the LDL-colesterol level / Helpful in decreasing colesterol’s blood levels / In diets, supplemented by a food diet and phisical exercices. / Accelerate the fatty acid import into mitochondria, which leads to a faster oxidation, favoring an efficient weight decrease as well as increasing of effort resistance.",L/carnitine,maintenance of normal blood LDL-cholesterol concentrations,1
+Helps control and normalize body weight.,Apple cider vinegar,contribution to the maintenance or achievement of a normal body weight,0
+"Helps improve muscle recovery after exercise
+-helps maintain optimal repair of muscle tissue
+-supports athletes in recovery from weight training
+-can help recreationally weight-trained in recovery from exercise
+-contributes to the reduction of muscle soreness from exercise in trained athletes",Carnitine,faster recovery from muscle fatigue after exercise,2
+"Helps improve muscle recovery after exercise
+-helps maintain optimal repair of muscle tissue
+-supports athletes in recovery from weight training
+-can help recreationally weight-trained in recovery from exercise
+-contributes to the reduction of muscle soreness from exercise in trained athletes",Carnitine,skeletal muscle tissue repair,2
+"Helps in the repair and recovery of muscle tissue after exercise.
+Helps muscle maintenance and recovery following exercise.
+For the growth, development and maintenance of muscles and strength.
+For muscle building during training.",Branched chain amino acids,growth or maintenance of muscle mass,0
+"Helps increase carbohydrate availability during endurance exercise.
+Combination of caffeine and carbohydrate improves endurance performance.",Caffeine and carbohydrate,increase in endurance performance,1
+Helps increase the antioxidative capacity of the body 2. Has antioxidant properties 3. Contains naturally occuring antioxidants 4. Antioxidants help protect you from radicals which cause cell damage 5. Antioxidants contribute to the total antioxidant capacity of the body and help strenghthen our body's defences 6. Antioxidants help to protect our body by reinforcing the body's natural defence against the harmful effects of free radicals 7. Acts as an antioxidants 8.Good source of antioxidant 9.Show antioxidative activity and help protect against oxidative stress,Honey,"Protection of DNA, proteins and lipids from oxidative damage",1
+Helps increase the antioxidative capacity of the body Has antioxidant properties Contains naturally occuring antioxidants Antioxidants help protect you from free radicals Antioxidants help protect your cells and tissues from oxidation Antioxidants contrib,PROPOLIS,"Protection of DNA, proteins and lipids from oxidative damage",1
+"Helps keep arteries/blood vessels healthy;
+Contributes to healthy arteries/ blood vessels;
+Supports heart health by contributing to the normal functioning of the arteries/blood vessels;
+Helps maintain a normal blood pressure by supporting the elasticity of blood vessels/arteries.","Endothjelial (syn.: L-5-methyltetra-hydrofolic acid, calcium salt; Vitamin B9), MetafolinTM",maintenance of normal blood pressure,0
+"Helps maintain a good venous blood circulation.
+Supports a normal venous function.
+Helps maintain healthy venous circulation in the legs.
+Protects veins from inflammatory reactions.
+Supports the strength of blood vessels.",Diosmin (a component of citrus peel extract and precursor of diosmetin),maintenance of elasticity and strength of the venous walls,2
+Helps maintain normal blood cholesterol levels/Supports heart health (to be evaluated by EFSA).,Hesperidin (a component of citrus peel extract and precursor of hesperitin) (ingredient not found in the spanish food laws),maintenance of normal blood LDL-cholesterol concentrations,0
+Helps maintain normal kidney and prostate function,Beta sitosterol,maintenance of normal prostate size and normal urination,0
+"Helps maintain normal, healthy skin.",Gamma-linolenic acid (GLA; C18: 3n-6/C18: 3?6) provided by evening primrose oil and/or borage (starflower) oil,Maintenance of the barrier function of the skin,0
+"Helps maintain positive mood and good cognitive functions.
+L-tryptophane is a natural precursor of serotonin.
+L-tryptophane participates in the synthesis of serotonin, which is essential for the maintenance of emotional balance and serenity.
+Contributes to optimal relaxation.
+Helps to support the relaxation, mental and physical wellbeing.
+Contributes to maintain a normal healthy sleep.",L-tryptophan,Contribution to normal cognitive function,0
+"Helps maintain positive mood and good cognitive functions.
+L-tryptophane is a natural precursor of serotonin.
+L-tryptophane participates in the synthesis of serotonin, which is essential for the maintenance of emotional balance and serenity.
+Contributes to optimal relaxation.
+Helps to support the relaxation, mental and physical wellbeing.
+Contributes to maintain a normal healthy sleep.",L-tryptophan,Maintenance of normal sleep,0
+Helps maintaining healthy eye function. Oral supplementation of Lutein and Zeaxanthin helps increasing macular pigment levels in plasma and retina. Oral supplementation with lutein results in increase in concentration of lutein in serum and macular pigment Helps enhance visual acuity in persons with compromised visual function Helps improve visual performance in persons with compromised visual function,Lutein (Marigold Extract),Maintenance of normal vision.,1
+Helps support skin health /helps promote healthy skin /helps maintain healthy skin /helps to maintain your skin’s healthy look and feel /is deposited naturally in the skin /is a natural compound contained in the dermis and epidermis /is a natural compound contained in the deepest layers of the skin /nutrition for skin /helps maintain skin moisture /helps maintain skin hydration /improves skin moisture /helps improve skin hydration /helps improve skin elasticity /supports skin elasticity /contributes to the appearance of skin associated with premature aging /helps protect the dermis and epidermis from oxidative stress /natural antioxidant for the skin /natural antioxidant for healthy skin /helps fight free radicals in the skin / Contributes to the maintenance of healthy skin when exposed to sun light (Avoid sunburns by using an effective sun screen. Beta carotene is not a replacement for sun screens),Lutein,protection of the skin from UV-induced (including photo-oxidative) damage,0
+"Helps the energy production in the cell by transporting fatty acids in places where they are used and metabolised
+-contributes to the fat burning during exercise
+-contributes to increased fat oxidation
+-is important for the oxidation of fat
+-helps improve muscle recovery after exercise
+-helps maintain optimal repair of muscle tissue
+-plays an important role in lipid metabolism
+-can support lipid metabolism converts fatty acids into energy
+-helps to increase fatty acid oxidation in healthy humans",Carnitine,faster recovery from muscle fatigue after exercise,1
+"Helps the energy production in the cell by transporting fatty acids in places where they are used and metabolised
+-contributes to the fat burning during exercise
+-contributes to increased fat oxidation
+-is important for the oxidation of fat
+-helps improve muscle recovery after exercise
+-helps maintain optimal repair of muscle tissue
+-plays an important role in lipid metabolism
+-can support lipid metabolism converts fatty acids into energy
+-helps to increase fatty acid oxidation in healthy humans",Carnitine,skeletal muscle tissue repair,1
+Helps the energy production in the cell by transporting fatty acids in places where they are used and metabolised/contributes to the fat burning during exercise/contributes to increased fat oxidation/is important for the oxidation of fat/helps improve muscle recovery after exercise/helps mantain optimal repair of muscle tissue/transports long-chain fatty acids into the mitocondria/plays an important role in lipid metabolism/can support lipid metabolism converts fatty acids into energy/turns fat into energy/helps to increase fatty acid oxidation in healty humans.,Carnitine,faster recovery from muscle fatigue after exercise,1
+Helps the energy production in the cell by transporting fatty acids in places where they are used and metabolised/contributes to the fat burning during exercise/contributes to increased fat oxidation/is important for the oxidation of fat/helps improve muscle recovery after exercise/helps mantain optimal repair of muscle tissue/transports long-chain fatty acids into the mitocondria/plays an important role in lipid metabolism/can support lipid metabolism converts fatty acids into energy/turns fat into energy/helps to increase fatty acid oxidation in healty humans.,Carnitine,skeletal muscle tissue repair,1
+"Helps to a normal sleep
+Helps to get a restful sleep
+Contributes to maintain nervous balance",Tryptophan,Maintenance of normal sleep,0
+"Helps to control blood levels of cholesterol.
+Contributes to a healthy cholesterol level and healthy blood vessels.
+Contributes to a normal blood pressure.
+Helps to maintain a healthy heart.
+Contributes to normal cholesterol levels.
+Helps to reduce blood cholesterol levels.","Wheat 
+(Triticum vulgare)",maintenance of normal blood cholesterol concentrations,0
+"Helps to control blood levels of cholesterol.
+Contributes to a healthy cholesterol level and healthy blood vessels.
+Contributes to a normal blood pressure.
+Helps to maintain a healthy heart.
+Contributes to normal cholesterol levels.
+Helps to reduce blood cholesterol levels.","Wheat 
+(Triticum vulgare)",maintenance of normal blood pressure,0
+"Helps to control body weight when combined with a healthy diet and exercise.
+Fits in a weight maintainance programme.
+Contributes to the reduction of body fat.
+Helps to control fat metabolism.",Docosahexaenoic acid (DHA),contribution to the maintenance or achievement of a normal body weight,2
+"Helps to control fat metabolism
+Influences lipid metabolism and storage
+Increases lean muscle mass
+Reduces body fat percentage
+Helps to reduce body fat mass while increasing lean body mass
+Helps to reduce body fat mass
+Helps to reduce the amount of fat you store after eating
+Helps to decrease the amount of fat stored in your body
+Helps to reduce you abdominal fat mass
+Helps to reduce fat mass in your abdomen and thighs
+Helps to improve your body shape
+Helps to increase lean body mass
+Helps reduce weight gain-helps to reduce SAD (sagittal abdominal diameter)-helps to prevent the yoyo-effect after a diet
+Helps to reduce muscle protein loss during a diet
+Helps to increase feelings of fullness and satiety","Conjugated linoleic acid (CLA) ((cis-9, trans-11 conjugated linoleic acid, and trans-10, cis-12 conjugated linoleic acid (50:50) triglycerides)",contribution to the maintenance or achievement of a normal body weight,1
+"Helps to delay the onset of fatigue.
+Helps to maintain energy levels for prolonged periods during intense competition/exercise. Enhances endurance and helps to maintain peak effort during times of high physical demand.",Carnitine,increase in endurance capacity,1
+"Helps to enhance the thermogenesis production, wich in turn helps weight control
+Helps to control the appetit
+Naturally supports feeling of fullness after a meal
+Helps to manage appetit and hunger
+Helps to loose weight
+Contributes to loose weight
+Used to facilitate the weight loss
+Helps in weight control
+Contributes to body weight management",Rubus idaeas  (Raspberry) extract - BERI-08,contribution to the maintenance or achievement of a normal body weight,1
+"Helps to enhance tonus and vitality.
+Helps to support body's vitality.
+Helps to make you feel more energetic.
+Helps to improve physical well-being.",Taurine,delay in the onset of physical fatigue during exercise,1
+"Helps to increase activity of endorfins which induce sense of joy, and has positive effect in pain",phenylalanin,enhancement of mood,1
+"Helps to increase activity of endorfins which induce sense of joy, and has positive effect in pain",phenylalanin,pain relief,1
+Helps to increase growth of beneficial microflora.,Cranberry extract powder (Vaccinium macrocarpon),Defence against bacterial pathogens in the lower urinary tract,1
+Helps to increase satiety after a meal /helps to increase energy expenditure by increasing the metabolic rate /helps with weight loss by increasing metabolic rate /tends to reduce body weight and fat in overweight persons,Medium Chain Triglycerides (MCT),reduction in body weight,1
+Helps to keep normal cholesterol level,lecithin   phosphatidyl choline,maintenance of normal blood cholesterol concentrations,0
+Helps to maintain a healthy heart/contributes to maintain a healthy cardiovascular system/contributes to protect the arteries from narrowing and hardening/contributes to keep the arteries healthy/helps to maintain a normal blood flow.,Lycopene,contribution to normal cardiac function,0
+Helps to maintain a normal blood glucose,"Momordica charantia
+(Common Name : balsam pear, bitter melon, bitter
+gourd, ampalaya, karela (karola), fu kwa)",Maintenance of normal blood glucose concentrations,0
+Helps to maintain a normal cholesterol level.,Phosphatidyl choline / lecithin,maintenance of normal blood cholesterol concentrations,0
+"Helps to maintain a normal cholesterol level;
+Helps to maintain a healthy heart.",Phosphatidyl choline / lecithin,maintenance of normal blood cholesterol concentrations,0
+"Helps to maintain normal bowel function.
+Promotes intestinal regularity.
+Ensures a healthy digestive system/ function.",Xanthan,changes in bowel function,0
+Helps to maintain normal bowel/colonic function. Helps to promote intestinal regularity. Helps to ensure healthy digestive functions. Helps to support gastrointestinal health. Helps to support intestinal function.,Konjac mannan (glucomannan),maintenance of normal bowel function,0
+"Helps to maintain normal prostate health.
+Helps to maintain a healthy prostate.",Tomato extract containing lycopene,"protection of DNA, proteins and lipids from oxidative damage",0
+"Helps to maintain strong bones
+contributes to the maintenance of normal bone strength in post-menopausal women
+contributes to the maintenance of normal bone strength in the elderly
+GLA with EPA help to preserve bone density",Gamma-linolenic acid + eicosapentaenoic acid (GLA+EPA),maintenance of normal bone,0
+"Helps to promote healthy serotonin levels which can enhance mood 5-HTP is the direct chemical precursor to the neurotransmitter serotonin, which may promote a positive mood",5-Hydroxytryptophan,enhancement of mood,1
+Helps to reduce jet lag effects Helps to reduce sleep onset latency Helps to regulate circadian rhythm Improves sleep-wake cycle Contributes to improve sleep quality Helps to fall asleep in a natural way,Melatonin,"Reduction of sleep onset latency, and improvement of sleep quality",1
+Helps to restore and maintain a normal vaginal microflora,<em>Lactobacillus rhamnosus</em> GR 1 (ATCC 55826) and Lactobacilus reuteri RC  14 (ATCC 55845),defence against vaginal pathogens by increasing the proportion of lactobacilli and/or decreasing the proportion of potentially pathogenic bacteria and/or yeasts,0
+"Helps to restore and maintain normal vaginal microflora;
+Helps during the treatment of urogenital disorders;",Lactobacillus acidophilus LA14,Defence against vaginal pathogens by increasing the proportion of lactobacilli and/or decreasing the proportion of potentially pathogenic bacteria and/or yeasts,0
+"Helps to retard skin aging.
+Contributes to maintain a healthy skin.
+Promotes healthy skin pigmentation and tanning.
+The anti-oxidant properties of Beta carotene help maintain a healthy and elastic skin.
+Contributes to the maintenance of healthy skin",Beta-Carotene,protection of the skin from UV-induced (including photo-oxidative) damage,0
+"Helps to strengthen the body
+Supports immune system
+Invigorates the body
+Supports energetic alertness
+Supports the immunesystem by delivering antioxidants
+Increases performance and endurance of a heavy exercise or sportsactivity",Cordyceps sinensis,increase in endurance performance,1
+"Helps to support mood.
+Contributes to emotionnal well-being.
+Helps to support relaxation and mental well-being.
+Contributes to optimal relaxation.
+Clarification provided
+Thanks to its high essential fatty acids content, flax enhances mood.
+Flax increases relaxation.",Flax (Linum usitatissimum),Enhancement of mood,1
+"Helps to support the digestion contributes to the normal function of intestinal tract
+helps support the digestive juice flow.",Citrus limon (Common Name : Lemon),reduction of gastro-intestinal discomfort,0
+"Helps you to feel full for longer.
+Helps to limit feeling of hunger and food craving.
+Helps to increase feelings of fullness and satiety.
+Curbs the appetite.
+Helps in weight control programs by reducing appetite and calorie intake.
+Contributes to control/ reduce appetite.
+Helps to reduce body weight.",Xanthan,increased satiety,1
+Important for brain functioning. Protects the brain. Regulates nerve impulse progression,Manganese,cognitive function,2
+Improve emotional well-being. Support positive mood. Increase relaxation,Cocoa (Theobroma cacao L.),enhancement of mood,1
+"Improvement of muscle recovery after exercise
+Improvement of muscle protein synthesis","Branched-chain amino acids (BCAA) 
+
+L-leucine
+L-valine
+L-isoleucine",growth or maintenance of muscle mass,2
+"Improves effectively muscular tonus
+Helps muscle recovery / supports muscle fatigue recovery
+Supports dorsal comfort
+Contributes to the reduction of muscle soreness
+Contributes to the reduction of muscle contracture
+Contributes to the reduction of muscular tension",Adenosine triphosphate (ATP),maintenance of normal muscle function,1
+Improves gallbladder mechanoactivity,"Water-based product (Water purified by reverse osmosis to monomolecular level, complex of salts)",“Improves mechanical activity of gallbladder”,1
+Improves health bowel/helps promote regularity,Hydrolised guar gum,changes in bowel function,1
+Improves intestinal comfort in people with irritable bowel syndrom,Sunfiber (enzymatically partially depolymerised guar gum),changes in bowel function,1
+Improves intestinal comfort in people with irritable bowel syndrom,Sunfiber (enzymatically partially depolymerised guar gum),reduction of gastro-intestinal discomfort,1
+Improves intestinal comfort in people with irritable bowel syndrom,Sunfiber(enzymatically partially depolymerised guar gum).,changes in bowel function,1
+Improves intestinal comfort in people with irritable bowel syndrom,Sunfiber(enzymatically partially depolymerised guar gum).,reduction of gastro-intestinal discomfort,1
+"Improves intestinal regularity.
+Improves bowel function and gut comfort.",Sunfiber(enzymatically partially depolymerised guar gum).,changes in bowel function,1
+"Improves intestinal regularity.
+Improves bowel function and gut comfort.",Sunfiber(enzymatically partially depolymerised guar gum).,reduction of gastro-intestinal discomfort,1
+"Improves intestinal regularity.
+Improves bowel function and gut comfort.
+Promotes a normal intestinal function.",Sunfiber(enzymatically partially depolymerised guar gum).,changes in bowel function,0
+"Improves intestinal regularity.
+Improves bowel function and gut comfort.
+Promotes a normal intestinal function.",Sunfiber(enzymatically partially depolymerised guar gum).,reduction of gastro-intestinal discomfort,0
+Improves intestinal regularity; Improves bowel function and gut comfort,Sunfiber (enzymatically partially depolymerised guar gum),changes in bowel function,1
+Improves intestinal regularity; Improves bowel function and gut comfort,Sunfiber (enzymatically partially depolymerised guar gum),reduction of gastro-intestinal discomfort,1
+Improves intestinal regularity; Improves bowel function and gut comfort ; Promotes a normal intestinal function,Sunfiber (enzymatically partially depolymerised guar gum),changes in bowel function,0
+Improves intestinal regularity; Improves bowel function and gut comfort ; Promotes a normal intestinal function,Sunfiber (enzymatically partially depolymerised guar gum),reduction of gastro-intestinal discomfort,0
+"Improves mental attentiveness
+Improved powers of concentration and ability to absorb information
+Assists in mental performance",Creatine,Increased attention,1
+Improves mental attentiveness also in the elderly,Creatine,Improvement of memory,1
+Improves mobility and elasticity of joints. Activates absorption of calcium in intestinal tract thus increasing bone tissue density,Gamma – linolenic acid,Maintenance of bone,1
+Improves mobility and elasticity of joints. Activates absorption of calcium in intestinal tract thus increasing bone tissue density,Gamma – linolenic acid,Maintenance of joints,1
+Improves physical performance.,Caffeine (from tea/coffee/chocolate or added in pure form),Increase in physical performance during short-term high-intensity exercise,1
+"Improves skin, hair and nail condition",Brewer`s Yeast,Maintenance of normal structure and appearance of hair and nails,1
+"Improves skin, hair and nail condition",Brewer`s Yeast,Maintenance of structure and elasticity of the skin,1
+Improves sperm quality.,L-carnitine,contribution to normal spermatogenesis,1
+Improves the conditions of hair and nails. Helps to support the hair’s vitality. Improve hair growth . Helps hair to be glossy. Strenghten hair and nails. Useful in case of fragile nails,Sulfur amino acids : methionine and cystine,maintenance of normal hair,1
+Improves the conditions of hair and nails. Helps to support the hair’s vitality. Improve hair growth . Helps hair to be glossy. Strenghten hair and nails. Useful in case of fragile nails,Sulfur amino acids : methionine and cystine,maintenance of normal nails,1
+"Improves the memory. Improves the memory, and learning and concentrative ability. Strengthens the nervous system.",Phospolipids,"memory, learning capacity and attention, and function of the nervous system",1
+Improves well-being after alcohol use,Fructose,&quot;mental health&quot;,1
+"In case of increased energy needs of the body or for increased mental or physical performance or for supporting the energy supply of the overloaded muscles, such as skeletal muscles, heart muscle.",Coenzyme Q10;ubiquinone,contribution to normal energy-yielding metabolism,1
+"In studies found to increase and prolong the sense of satiety.
+Helps to control appetite during the day.
+Increases the feeling of satiety",Palm/oat oil fatty acid,contribution to the maintenance or achievement of a normal body weight,1
+Increase hair and nail resistance and promote their growth,DL-Methionine and L-cystine sulphur amino acids,maintenance of normal hair,1
+Increase hair and nail resistance and promote their growth,DL-Methionine and L-cystine sulphur amino acids,maintenance of normal nails,1
+Increases beneficial HDL cholesterol./ Beneficial for the heart and blood vessels.,Sugar cane extract,maintenance of normal blood HDL-cholesterol concentrations,1
+Increases beneficial HDL cholesterol./ Beneficial for the heart and blood vessels.,Sugar cane extract,maintenance of normal blood LDL-cholesterol concentrations,1
+"Increases burning of calories.
+Stimulates your metabolism to burn calories.
+Stimulates your body to enhance the calorie burning process.
+Stimulates your metabolism.
+Three servings per day have been shown to increase calorie burning by approximately 106 calories.
+Symbol included in the claim:
+Brand included in the claim: ENVIGA™ CALORIE BURNER – INVIGORATE YOUR METABOLISM",Epigallocatechin gallate (ECGC) + caffeine,Contribution to the maintenance or achievement of a normal body weight,1
+"Increases in volume in the interior of the digestive tube by hydration, launches laxation in non-irritative way.",Chitosan-Natural insoluble fibre from crustaceans shell,reduction of intestinal transit time,1
+"Increases muscle power and speed', 'Provide energy to muscle",Creatine,increase in endurance performance,1
+Increases muscle synthesis,Whey protein isolate (Lacprodan DI-9212),growth or maintenance of muscle mass,1
+Increases potency,Wheat germ oil,contribution to normal fertility,1
+"Increases the sense of satiety
+Elicit satiety
+Reduces appetite
+Supports weight control",Potato protein isolate,increase in satiety leading to a reduction in energy intake,1
+"Increasing fiber intake helps maintain digestive health.
+Wheat dextrin promotes healthy functioning of your digestive system.
+Wheat dextrin helps your natural bowel regularity.
+Wheat dextrin helps to restore normal digestive health.
+Wheat dextrin is a natur",Wheat Dextrin,maintenance of normal bowel function,0
+"Increasing fiber intake helps maintain digestive health.
+Wheat dextrin promotes healthy functioning of your digestive system.
+Wheat dextrin helps your natural bowel regularity.
+Wheat dextrin helps to restore normal digestive health.
+Wheat dextrin is a natural solution when it concerns your digestive health.
+Wheat dextrin helps to supplement your daily diet with fiber that is essential to keep your bowel healthy.
+Wheat dextrin helps restore your digestive system’s natural balance.",Wheat Dextrin,decreasing potentially pathogenic gastro-intestinal microorganisms,0
+"Increasing fiber intake helps maintain digestive health.
+Wheat dextrin promotes healthy functioning of your digestive system.
+Wheat dextrin helps your natural bowel regularity.
+Wheat dextrin helps to restore normal digestive health.
+Wheat dextrin is a natural solution when it concerns your digestive health.
+Wheat dextrin helps to supplement your daily diet with fiber that is essential to keep your bowel healthy.
+Wheat dextrin helps restore your digestive system’s natural balance.",Wheat Dextrin,maintenance of normal bowel function,0
+"Is an antioxidant that protects the body’s cells.
+Can protect you from free radicals.
+Can protect your cells and tissues from oxidation.
+Can contribute to the total antioxidant capacity of the body.
+Protects the body's cells.",Beta-Carotene,"protection of DNA, proteins and lipids from oxidative damage",2
+"Is believed to play a role in stress situation e.g. helps to keep normal or slightly increased blood pressure in critical situations
+helps to calm and harmonize mind helps organism to adapt for emotional stress, physical effort",Lactium milk protein hydrolysate,alleviation of psychological stress,1
+"It improves liver function.
+To stimulates the appetite in a natural way",Lysine,Increase in appetite leading to an increase in energy intake,1
+"It maintains the good condition of bonesIt protects and nourishes bones, it is a suitable source of calcium for bone restoration.","Egg shell, crushed, without membrane",maintenance of normal hair and nails,2
+"It protects eye retina, for protection of liver cells from toxins, for proper heart function, proper cardio-vascular health",Taurine,maintenance of normal cardiac function,2
+"Kaera kiudaine beeta-glükaani tarbimine soodustab seedimist. Kaera kiudaine beeta-glükaani tarbimine aitab soodustada seedimist.
+Clarification provided
+Consuming beta-glucan promotes digestion, improves digestive function.",Oats beta-glucan,“digestive function”,1
+"Kaera kiudaine beeta-glükaani tarbimine suurendab küllastustunnet ehk täiskõhutunnet.Kaera kiudaine beeta-glükaani tarbimine pikendab küllastustunde ehk täiskõhutunde säilimist.
+Clarification provided
+Consuming oats beta-glucan increases satiety. Consuming oats beta-glucan prolongs the feeling of satiety.",Oats beta-glucan,increase in satiety leading to a reduction in energy intake,1
+Kaki is a major dietary source of antioxidants Antioxidants from dietary sources contribute to the protection against free radicals which cause cell damage Contributes to the protection of cells and tissues from oxidative damage Help strengthen our body's natural defences against oxidative stress,Kaki,"Protection of DNA, proteins and lipids from oxidative damage",2
+L-Methionine is an essential amino acid required for normal growth and development in humans and which enhances protein quality in cereals. .It helps physical development of infants and prevents build-up of bad cholesterol.,L-Methionine,maintenance of normal blood cholesterol concentrations,1
+"La miscela favorisce l'equilibrio dell'ecosistema intestinale. La miscela regola la funzionalità intestinale, ripristinando la normale microflora. La miscela influisce positivamente sul benessere dell'organismo. La miscela ripristina la naturale microflora dopo trattamento antibiotico/antimicotico. La miscela è utili nella digestione del lattosio.",<em>Streptococcus thermophilus</em> P18807,Reduction of gastro-intestinal discomfort,0
+Lecithin helps to maintain normal function of cardo-vascular system.,Lecithin,maintenance of normal blood cholesterol concentrations,0
+Long-chain omega-3 fatty acids EPA and DHA help maintain healthy levels of good cholesterol. Normal levels of good cholesterol are important for keeping your heart and blood vessels healthy. Long-chain omega-3 fatty acids EPA and DHA help maintain normal cholesterol levels.,Long chain omega-3 fatty acids EPA and DHA,maintenance of normal HDL-cholesterol concentrations,0
+"Long-lasting energy.
+Levels out the blood sugar increase after meals.
+Low glycemic index.",Rye fibre,reduction of post-prandial glycaemic responses,1
+Lowers cholesterol levels,Essential amino acids: 25 mg lysine chloride.,maintenance of normal blood LDL-cholesterol concentrations,2
+Lowers the ageing process.,Hippophae rhamnoides-berry-oil-Sea buckthorn berry oil,protection of cells from premature aging,2
+"Lutein helps maintain a healthy vision
+Lutein–for maintenance of a healthy sight
+Lutein–for maintenance of healthy eyes","Lutein 
+(example from tagetes E or Calendula Officinalis)",maintenance of normal vision,0
+"Lutein promotes healthy eye function. Lutein and zeaxanthin help protect the retina against oxidation / from oxidative stress. Lutein is a constituent of the macular pigment. Lutein and zeaxanthin are deposited naturally in the macula and lens. Lutein and zeaxanthin are highly and selectively accumulated in the macula and lens / in the retina Lutein contributes to eye health. Lutein helps maintain the normal function of the macula. Lutein contributes to a healthy macula and retina. Lutein – nutrition for the eyes. Lutein contributes to the protection of vision.
+Lutein is important for macular pigment density. Lutein and zeaxanthin help protect the retina against oxidation / from oxidative stress. Lutein und zeaxanthin are natural antioxidants for the eye. Lutein helps fight free radicals in the eye. Lutein and zeaxanthin are natural filters of visible blue light. Lutein and zeaxanthin help protect the eye against harmful effects of light exposure. Lutein help protect the eye against visible light damage",Lutein,Maintenance of vision,2
+Lycopene from tomato extract has an antioxidant effect. Lycopenes contained in this product have an antioxidant action/ ensure a protective effect on the organism/contribute to the protection of the cellular membranes from oxidation.,Lycopene (fromTomato extract),"protection of DNA, proteins and lipids from oxidative damage",2
+"Lycopenes contained in this product ensure antioxidant action.
+Ensure protective effect on the organism.
+Contribute to the protection of the cellular membranes from oxidation.",Lycopene,"protection of DNA, proteins and lipids from oxidative damage",2
+Lysine can contribute to the development and maintenance of the normal structure of bones.,L-Lysine,Maintenance of normal bone,0
+"Lysine is an essential amino acid that is necessary for maintenance of the body/body tissues/body function.
+Addition of lysine enhances of cereal protein quality",Lysine,Contribution to normal protein synthesis,1
+"Lysine is an essential amino acid that is necessary for maintenance of the body/body tissues/body function.
+Addition of lysine enhances of cereal protein quality",Lysine,Increase in calcium absorption leading to an increase in calcium retention,1
+"Magnesium contributes to meeting the increased requirement for magnesium in pregnant women, so it could help the normal course of pregnancy and delivery and birth of a healthy baby.",Magnesium,Maintenance of normal blood pressure during pregnancy,1
+"Magnesium contributes to the maintenance of hormonal health
+Magnesium helps to maintain hormonal health.
+Magnesium is an essential co-factor in fatty acid metabolism which impacts on hormonal health.",Magnesium,“Hormonal health”,0
+Magnesium is necessary for normal blood clotting,Magnesium,blood coagulation,0
+Maintains/restores the balance of intestinal flora Promotes intestinal comfort Strengthens resistance of organism Improves digestive health the natural defences; help/contribute/participate to strengthen the immune system.,Lactobacillus johnsonii BFE 6128,decreasing potentially pathogenic intestinal microorganisms,1
+Maintenance and promotion of a normal blood pressure,Cocoa flavanols,maintenance of normal blood pressure,0
+Maintenance of blood vessel wals strenght,Aronia melanocarpa (Common Name : Chokeberry ),“Vascular and vein health”,0
+"Maintenance of healty bones /(natural)
+/support to bone health /contributes to the maintenance of normal bone strength in post-menopausal women",Soy Isoflavones,Maintenance of bone mineral density,0
+"Makes energy metabolism more effective.
+Protects cell energy metabolism.
+Reduces changes in energy metabolism caused by ageing.",L-carnitine,“energy metabolism”,1
+"Makes smoother and softer skin.
+Diminishes appearance of fine lines and wrinkles.
+Increases skin hydration and suppleness.
+Gives skin wellness and youthful appearance.
+Stimulates cell repair.",Polyphenols and vitamins from pomegranate extract,“antioxidant and anti-aging properties”,1
+"Mangosteen whole fruit juice/concentrate contains antioxidants
+- [which may neutralise the damaging effects of free radicals in the body]
+- [which contribute to the total antioxidant capacity within the body]
+- [which offer protection from oxidative effects/damage within the body",Mangosteen (Garcinia mangostana L) fruits and extracts derived from the fruits,"protection of DNA, proteins and lipids from oxidative damage",2
+"Maternal Health; Pregnancy and nursing
+Clarification provided
+The omega-3 fatty acids EPA and DHA help sustain pregnancy duration. Consumption of long chain omega-3 fatty acids increases breast milk DHA levels during nursing.Consumption of long chain omega-3 fatty acids during pregnancy and nursing increases the mother’s DHA stores. Maternal consumption of EPA and DHA during pregnancy may support neural and visual development in the unborn baby.",Long-chain Omega-3 fatty acids EPA and DHA,“Maternal health; pregnancy and nursing”,1
+"May help the detoxification process. Possesses antioxidant activity. Can be considered as a detoxifying / purifying agent, due to its antioxidant properties. Provides antioxidant protection.","Grapefruit (Citrus paradisi Mact. = C. decumana L., C. grandis Osbeck ; Citrus maxima)","antioxidant activity, antioxidant content, and antioxidant properties",2
+"Might help to protect the body tissues and cells from oxidative damage, viruses, heavy metals, toxines and free radicals, alergenes and radionuclids. Might helps to keep normal level of blood cholesterol, lipid and sugar. Might be useful in increasing the bioavailability of vitamins, minerals and nutritive substances from food. Balances the pH level of organism and it might rejuvenate the intestine peristaltic.",Zeolite - clinoptilolit,elimination of heavy metals,0
+"Natural Blood Pressure Support”
+“Provides peptides isolated from bonito to support healthy blood pressure levels.”
+“Provides effective levels of well-researched, specific peptides for healthy blood pressure support.”
+“Formulated to promote healthy blood pressure levels already within the normal range”
+“A natural approach for blood pressure support”
+“Bioactive peptides isolated from bonito fish support blood pressure health naturally.”
+“Testing for LKPNM assures efficacy to help maintain blood pressure already within the normal range.”",Bonito protein peptide,maintenance of normal blood pressure,0
+"Natural enhancer of immune system.
+Supports the immune system.
+Supports the immune response 
+Support of the body's defence",Arabinoxylan,Stimulation of natural killer cell activity,1
+"Natural sulphur, which helps build and renew connective tissue, reduce inflammation in joints and muscles
+For healthy skin, hair and nails
+Ensures elasticity of connective tissues
+Improves the structure of skin, hair, nails and joints
+ArthroStop Plus contains substances necessary for cartilage formation and functioning of joints
+MSM help maintain joint functions
+MSM helps improve joint mobility
+Necessary for normal metabolism in joints",Sulphur,contribution to normal collagen formation,0
+"Natural sulphur, which helps build and renew connective tissue, reduce inflammation in joints and muscles
+For healthy skin, hair and nails
+Ensures elasticity of connective tissues
+Improves the structure of skin, hair, nails and joints
+ArthroStop Plus contains substances necessary for cartilage formation and functioning of joints
+MSM help maintain joint functions
+MSM helps improve joint mobility
+Necessary for normal metabolism in joints",Sulphur,maintenance of normal hair,0
+"Necessary for normal growth, wholesome mental and physical development, a healthy nervous system, maintenance of memory and cognitive abilities, particularly in old age",Gamma – linolenic acid,Contribution to normal cognitive function,0
+"Necessary for normal growth, wholesome mental and physical development, a healthy nervous system, maintenance of memory and cognitive abilities, particularly in old age",Wheat germ oil,contribution to normal cognitive function,0
+Normal immune system function.,Quercus pedunculata-Buds-Oak,“contribution to body defences against external agents”,0
+"Normalizes the bacterial flora in the intestine    
+Balances and strengthen the bacterial flora in the intestine
+Supports a healthy intestinal flora
+(Helps to) strengthen the natural defences
+Support gastrointestinal conditions during antibiotic treatment",<em>Lactobacillus rhamnosus</em> LB21 NCIMB 40564,Digestive health,0
+Normalizes the bacterial flora in the intestine. Balances and strengthen the bacterial flora in the intestine. Supports a healthy intestinal flora (Helps to) strengthen the natural defences. Support gastrointestinal conditions during antibiotic treatment.,<em>Lactobacillus rhamnosus</em> LB21 NCIMB 40564,Decreasing potentially pathogenic intestinal microorganisms,0
+Normalizes the bacterial flora in the intestine. Balances and strengthen the bacterial flora in the intestine. Supports a healthy intestinal flora (Helps to) strengthen the natural defences. Support gastrointestinal conditions during antibiotic treatment.,<em>Lactobacillus rhamnosus</em> LB21 NCIMB 40564,Reduction of mutans streptococci in the oral cavity,0
+"Odra kiudaine beeta-glükaani tarbimine suurendab küllastustunnet ehk täiskõhutunnet. Odra kiudaine beeta-glükaani tarbimine pikendab küllastustunde ehk täiskõhutunde säilimist.
+Clarification provided
+Consuming barley beta-glucan increases satiety. Consuming oats beta-glucan prolongs the feeling of satiety.",Barley beta-glucan,increase in satiety leading to a reduction in energy intake,1
+Omega-3 EPA and DHA support normal emotional wellbeing,EPA and DHA Omega-3 fatty acids,Enhancement of mood,0
+Ornithine helps to normalize hepatic function through regulation of urea cycle.,Ornithine,contribution to the regulation of the urea cycle,0
+PHGG contributes to lower cholesterol and trigyceride levels in the blood after the intake of fat-rich foods there by improve heart function.,PHGG,Maintenance of normal blood cholesterol concentrations,2
+PHGG contributes to lower cholesterol and trigyceride levels in the blood after the intake of fat-rich foods there by improve heart function.,PHGG,Maintenance of normal blood concentrations of triglycerides,2
+"PHGG promotes the growth of beneficial intestinal bacteria (probiotics) that are important for the maintenance of the natural digestive balance
+PHGG supports the natural, beneficial microflora
+PHGG contributes to proper digestive function by regulating the microflora and short chain fatty acid production.
+PHGG helps promote healthy intestinal flora to support bowel function
+PHGG helps maintain digestive balance by promoting “good bacteria” levels
+PHGG helps to restore and maintain your natural digestive balance by stimulating the growth of beneficial intestinal flora
+PHGG acts as a prebiotic to naturally nourish the beneficial bacteria found in your digestive system
+PHGG stimulates the development of the intestinal flora
+PHGG helps to maintain the natural balance of the intestinal flora
+PHGG has a prebiotic effect
+Thanks to the prebiotic activity of PHGG, the product has a gentle, effective and progressive action: it helps good development of the intestinal flora",Partially Hydrolysed Guar Gum (PHGG),decreasing potentially pathogenic gastro-intestinal microorganisms,0
+"PSMIX® favorisce l'equilibrio dell'ecosistema intestinale. PSMIX® regola la funzionalità intestinale, ripristinando la normale microflora. PSMIX® influisce positivamente sul benessere dell'organismo. PSMIX® ripristina la naturale microflora dopo trattamento antibiotico/antimicotico. PSMIX® è utile nella digestione del lattosio.","PSMIX®, miscela di <em>Lactobacillus paracasei </em> I1688 e Lactobacillus salivarius I1794",Increasing IL-10 production,0
+"Pantothenic acid supports healthy hormone balance.
+Pantothenic acid is required for normal adrenal function",Pantothenic acid (B-5),adrenal function,0
+Peptides help to control blood pressure / Bioactive peptides help to control blood pressure. Peptides help to control blood pressure and reduce arterial stiffness. / Bioactive peptides help to control blood pressure and help to reduce arterial stiffness. Helps to control blood pressure. Helps to improve arterial elasticity / Reduces arterial stiffness. Has a positive effect on arterial function.,"Peptides (isoleucine-proline-proline, IPP + valine-proline-proline, VPP)",maintenance of the elastic properties of the arteries,1
+"Phosphate supplementation increases maximum oxygen uptake in endurance athletes
+Phosphate supplementation aids aerobic performance in endurance athletes
+Phosphate supplementation increases oxygen transport in endurance athletes",Sodium phosphate,increase in endurance capacity,1
+"Phosphate supplementation increases maximum oxygen uptake in endurance athletes
+Phosphate supplementation aids aerobic performance in endurance athletes
+Phosphate supplementation increases oxygen transport in endurance athletes",Sodium phosphate,increase in endurance performance,1
+"Phosphate supplementation increases maximum oxygen uptake in endurance athletes
+Phosphate supplementation aids aerobic performance in endurance athletes
+Phosphate supplementation increases oxygen transport in endurance athletes
+Phosphate supplementation improves endurance performance in endurance athletes
+Phosphate supplementation delays fatigue during intense exercise
+Phosphate supplementation helps maintain endurance performance in endurance athletes
+Phosphate supplementation delays time to exhaustion in endurance athletes",Sodium phosphate,increase in endurance capacity,1
+"Phosphate supplementation increases maximum oxygen uptake in endurance athletes
+Phosphate supplementation aids aerobic performance in endurance athletes
+Phosphate supplementation increases oxygen transport in endurance athletes
+Phosphate supplementation improves endurance performance in endurance athletes
+Phosphate supplementation delays fatigue during intense exercise
+Phosphate supplementation helps maintain endurance performance in endurance athletes
+Phosphate supplementation delays time to exhaustion in endurance athletes",Sodium phosphate,increase in endurance performance,1
+"Pitanga is a major dietary source of antioxidants
+Antioxidants from dietary sources contribute to the protection against free radicals which cause cell damage
+contributes to the protection of cells and tissues from oxidative damage
+help strengthen our body's natural defences against oxidative stress",Pitanga,"protection of DNA, proteins and lipids from oxidative damage",2
+Pitanga is a major dietary source of antioxidants/ Antioxidants from dietary sources contribute to the protection against free radicals which cause cell oxidation/ Contributes to the protection of cells and tissues from oxidation/ Help strengthen our body's natural defences against oxidative stress,Pitanga,"Protection of DNA, proteins and lipids from oxidative damage",2
+Positive affect for protection of the lens,Folic Acid,maintenance of normal vision,2
+"Power for muscles.
+Increases nitric oxide production.",L-arginine hydrochloride,“Physical performance and condition”,1
+"Precursor of prostaglandins which are associated with many of the body's metabolic functions (immune system, reduction of inflammation).",Echium oil,Reduction of inflammation,2
+"Prevents the formation of lactic acid in muscles.
+Prevents the muscles from tiring during exertion.
+Reduces lactic acid production in muscles.",Pollen pistil extract + SOD,reduction of muscle fatigue during exercise,1
+Probiotic - helps to strengthen your body's natural defences; helps to strengthen the natural defenses; helps to strengthen the natural defences of your body; contributes to enhance your body's resistance.,Lactobacillus acidophilus NCFM ATCC SD5221,Increasing numbers of gastro-intestinal microorganisms,1
+Probiotic - reduces flatulences/ bloating,<em>Lactobacillus plantarum</em> 299v,reduction of flatulence and bloating,1
+"Promote keratin formation.                         
+Strength hair.                   
+Hair is more resistant and thick.                          
+Increase hair resistance.",Gélatine,Maintenance of normal structure and appearance of hair and nails,1
+"Promotes good intestinal health.
+Improves bowel function and gut comfort.",Guar gum partially hydrolyzed,changes in bowel function,1
+"Promotes good intestinal health.
+Improves bowel function and gut comfort.",Guar gum partially hydrolyzed,reduction of gastro-intestinal discomfort,1
+"Promotes good intestinal health.
+Improves bowel function and gut comfort.",Guar gum partially hydrolyzed,changes in short chain fatty acid (SCFA) production and/or pH in the gastro-intestinal tract,1
+"Promotes the functioning of blood vessels (arteries, veins, capillaries), normalizes penetrability, health and elasticity of the blood vessel walls.",Rutin,improvement of endothelium-dependent vasodilation,0
+Protects the cells; Antioxidant Properties; With Natural Fruit and Tea Antioxidants,Polyphenols from processed fruits and tea,"protection of DNA, proteins and lipids from oxidative damage",2
+"Protects the eye from oxidative and photo-oxidative stress Protects the eye Antioxidant vitamin C, is associated with the health of the retina and lens, which can be damaged over the years by free radical damage e.g. caused by sunlight, smoke & pollution",Vitamin C,maintenance of vision,2
+Protects the lens.,Vitamin E,maintenance of normal vision by protection of the lens of the eye,2
+Protects the liver.,Sea buckthorn berry oil (cold-pressed),“Liver health”,2
+"Prune juice help the maintenance of healthy body function.
+Prune juice help with the maintenance of health in general
+Prune juice helps maintain bowel regularity which can help to ensure a healthy digestion and bowel.
+Prune juice is beneficial to the health of the stomach and digestive system.
+Prune juice is good for healthy bowel function.
+Prune juice is good for (regular) digestion
+Prune juice has a natural laxative effect that can contribute to a healthy digestion and bowel.",Prune Juice,maintenance of normal bowel function,0
+Purple grape juice is a major dietary source of antioxidants/ Antioxidants from dietary sources contribute to the protection against free radicals which cause cell damage/contributes to the protection of cells and tissues from oxidative damage/ help strengthen our body's natural defences against oxidative stress,Purple Grape Juice,"Protection of DNA, proteins and lipids from oxidative damage",2
+Recognized for hunger feeling reduction,Glycomacropeptide,contribution to the maintenance or achievement of a normal body weight,2
+Recognized for hunger feeling reduction,Glycomacropeptide,increase in satiety leading to a reduction in energy intake,2
+"Recommandé lors de problèmes liés au cycle menstruel.
+Soulage les douleurs liées au cycle menstruel.
+A utiliser en cas de règles douloureuses.
+Clarification provided
+Oyster shells are rich source of calcium that alleviates the premenstrual syndrome/oyster shells are a rich source of calcium that reduces premenstrual pain and premenstrual water retention.",Coquille d'huître,reduction in the severity of symptoms related to the premenstrual syndrome,1
+"Reconnu pour faciliter la digestion/Reconnu pour contribuer à un confort digestif/reconnu pour favoriser le transit par un effet de lest
+Clarification provided
+Traditionally used to facilitate the digestion / traditionally used to contribute to the digestive comfort / traditionally used to facilitate a good digestion / traditionally used to enhance le digestion by an effect of load","Plante : Pomme 
+Malus communis (=syn. Pirus malus) (Apple) ",changes in bowel function,1
+"Resistant starch helps favour a normal colon metabolism;
+Resistant starch is a butyrogenic fibre, butyrate participates to a normal colonic functions and metabolism",Resistant starch,“Favours normal colon metabolism”,0
+Royal jelly could promote the protection of the cells against certain harmful effects provoked by free radicals.,Royal jelly,"Protection of DNA, proteins and lipids from oxidative damage",2
+"Sea buckthorn seed and pulp oil nourish the mucous membranes and help to maintain their normal structure and functioning.
+Sea buckthorn seed and pulp oil moisturise dry mucous membranes.
+Sea buckthorn seed and pulp oil strengthen and protect the mucous membranes of the stomach.",Sea buckthorn seed oil and pulp oil,“Mucous membranes”,0
+Selenium is necessary for normal cardiovascular function.,Selenium,function of the heart and blood vessels,0
+Silicon helps protect the brain; Silicon reduces aluminium accumulation in the brain,Silicon (as stabilized 0ligomeric orthosilicic acid (OSA),protection against aluminium accumulation in the brain,1
+Silicon helps stimulate macrophages and increases circulating lymphocytes,Silicon (as stabilized 0ligomeric orthosilicic acid (OSA),stimulating macrophages and increasing circulating lymphocytes,1
+"Silicon is required for healthy skin, hair and nails.
+Silicon is beneficial for collagen formation in the skin; Silicon reduces the appearance of wrinkles as it stimulates the formation of collagen and helps improve skin elasticity;",Silicon and Silicon (as stabilized 0ligomeric orthosilicic acid (OSA),Maintenance of normal appearance and elasticity of the skin,1
+"Silicon is required for healthy skin, hair and nails.
+Silicon is beneficial for collagen formation in the skin; Silicon reduces the appearance of wrinkles as it stimulates the formation of collagen and helps improve skin elasticity;",Silicon and Silicon (as stabilized 0ligomeric orthosilicic acid (OSA),contribution to normal formation of collagen and connective tissue,1
+Silicon is required for normal bone and connective tissue formation.,Silicon,maintenance of normal bone,0
+Silicon is required for normal bone and connective tissue formation.,Silicon,contribution to normal formation of collagen and connective tissue,0
+"Skeletal muscle represents the greatest store of glutamine in the body
+-muscle tissue is an important source of glutamine
+-high intensity exercise decreases plasma glutamine levels
+-anaerobic training can deplete the glutamine pool
+-prolonged exercise such as marathon running decreases glutamine levels
+-supplementation can maintain glutamine levels during intense exercise
+-can abolish the exercise related decline in glutamine stores
+-enhances glutamine levels
+-restores blood glutamine levels post exercise
+-helps maintain optimal health after training
+-helps keep athletes healthy after intense exercise
+-optimizing blood glutamine levels helps enhance muscle adaptation to intense exercise
+-reduced glutamine levels decreases the adaptive response to intense exercise
+-helps enhance glycogen storage
+-helps increase carbohydrate storage",Glutamine,faster restoration of muscle glycogen stores after strenuous exercise,1
+"Skeletal muscle represents the greatest store of glutamine in the body/muscle tissue is an important source of glutamine/high intensity exercise decreases plasma glutamine levels
+anaerobic training can deplete the glutamine pool/prolonged exercise such as marathon running decreases glutamine levels/supplementation can maintain glutamine levels during intense exercise/can abolish the exercise related decline
+restores blood glutamine levels post exercise/helps maintain optimal health after training/helps keep athletes healthy after intense exercise/optimizing blood glutamine levels helps enhance muscle adaptation to intense exercise
+/reduced glutamine levels decreases the adaptive response to intense exercise/helps enhance glycogen storage/helps increase carbohydrate storage",Glutamine,faster restoration of muscle glycogen stores after strenuous exercise,1
+"Slower absorbing protein source to deliver essential amino acids to muscles for exercise recovery
+Post-exercise consumption supports muscle anabolism",Casein,growth or maintenance of muscle mass,2
+"Soodustab seedimist.
+Clarification provided
+Consumption of bran improves digestive function",Bran,“Digestive function”,1
+"Soutient la circulation.
+Stimule la circulation.
+Aide à maîtriser le cholestérol.
+Harmonise les fonctions cardio-vasculaires.
+Stimule la diminution des triglycérides.
+Clarification provided
+Helps to control blood levels of cholesterol and triglycerides 
+Contributes to a healthy cholesterol, triglycerides levels and healthy blood vessels.
+Contributes to a normal blood pressure.",Germe de blé,maintenance of normal (fasting) blood concentrations of triglycerides,0
+"Soutient la circulation.
+Stimule la circulation.
+Aide à maîtriser le cholestérol.
+Harmonise les fonctions cardio-vasculaires.
+Stimule la diminution des triglycérides.
+Clarification provided
+Helps to control blood levels of cholesterol and triglycerides 
+Contributes to a healthy cholesterol, triglycerides levels and healthy blood vessels.
+Contributes to a normal blood pressure.",Germe de blé,maintenance of normal blood cholesterol concentrations,0
+"Squalen, in the sebum of the skin acts as antioxidant and protects the skin from damages produced by UV rays",squalene idrocarburo,"Protection of DNA, proteins and lipids from oxidative damage",2
+Strengthens /supports /assists human energy reserves Supports the building of muscle Supports the building of muscle improves physical performance,Creatine,increase in endurance performance,1
+"Strengthens the body’s defence system.
+Increases immunity",Herbal yeast plasmolycate (saccharomyces cerevisiae),“Immune function/immune system”,1
+"Sulfur-containing amino acids could contribute to the maintenance of the healthy structure of hair, nails and skin.;",L-Cystine/;cysteine,maintenance of normal skin,0
+"Sulfur-containing amino acids could contribute to the maintenance of the healthy structure of hair, nails and skin.;",L-Methionine,maintenance of normal skin,0
+"Supplementation helps improve exercise performance.
+Helps reduce muscle fatigue.
+Helps improve muscle work capacity.
+Contributes to the increase of muscle buffering capacity, which is directly related to muscle carnosine stores.
+Helps maintain optimal muscle pH during exercise.",Beta-alanine,increase in time to exhaustion,1
+"Supplementing with HMB may help improve body composition
+HMB supports maintenance of lean muscle mass
+With proper diet and exercise, HMB can help support an increase in fat free mass.
+HMB has been shown to increase lean muscle mass",HMB (B-hydroxy B-methylbutyrate monohydrate),increase in lean body mass,1
+"Support for Healthy Blood Lipid Levels/ Natural Blood Lipid Support/ Policosanol supports healthy lipid metabolism/ Policosanol may promote LDL binding, uptake, and degradation/ Policosanol may help maintain healthy blood pressure levels already within normal range","Policosanol
+[from sugarcane wax (Saccarum officinarum)]",maintenance of normal blood HDL-cholesterol concentrations,0
+"Support for Healthy Blood Lipid Levels/ Natural Blood Lipid Support/ Policosanol supports healthy lipid metabolism/ Policosanol may promote LDL binding, uptake, and degradation/ Policosanol may help maintain healthy blood pressure levels already within normal range","Policosanol
+[from sugarcane wax (Saccarum officinarum)]",maintenance of normal blood LDL-cholesterol concentrations,0
+Support of normal bladder function,Apium graveolens,"“Kidneys health”, “urinary health”, “bladder health”, “health of lower urinary tract”, “blood health”, “elimination”, &quot;urinary system benefits&quot; and/or “supports/promotes the excretory function of the kidney”",0
+Support of normal blood circulation,Arginine,Improvement of endothelium-dependent vasodilation,0
+Support of normal blood circulation,Arginine,Maintenance of normal blood pressure,0
+Support of normal blood circulation,Arginine,Normal red blood cell formation,0
+Supports anti-aging through cellular health. Supports a healthy response to physiologic al stress. Supports healthy immune function. Protects DNA.,Astaxanthin from Haematococcus pluvialis,“Immune system”,2
+Supports anti-aging through cellular health. Supports a healthy response to physiological stress. Supports healthy immune function. Protects DNA.,Astaxanthin from Haematococcus pluvialis,“Immune system”,2
+Supports anti-aging through cellular health. Supports increased energylevels. Helps control excessive free radicals in the body. Supports ahealthy response to oxidative stress. Protects DNA from free radicals.,Astaxanthin from Haematococcus pluvialis,"protection of DNA, proteins and lipids from oxidative damage",1
+Supports heart function and blood quality. Contributes to normal cholesterol. Contributes to the health of the cardiovascular system,Emblica officinalis FRUIT RIND,maintenance of normal blood LDL-cholesterol concentrations,0
+Supports mental function. Helps maintain freedom from pain in the head. Improves the body's resistance to stress. Helps the body to deal with stress,Emblica officinalis FRUIT RIND,relief from stress-induced headache,1
+Supports normal blood pressure Contributes to a normal blood pressure,Coenzyme Q10 (Ubiquinone); Normal cardiovascular function,maintenance of normal blood pressure,0
+"Supports normal immune function
+/supports body own defence mechanisms",Papain,“Immune function/immune system”,0
+Supports the digestion and metabolism of sugars. Helps to maintain normal blood glucose level.,Emblica officinalis FRUIT RIND,Maintenance of normal blood glucose concentrations,0
+"Supports the integrity and the fluidity of the cell membrane.
+Plays an active role in the natural skin rejuvenation.
+Maintains its suppleness and elasticity/improves cutaneous barrier function in the elderly people/helps maintain transepidermal water balance",Borago officinalis (Common Name : Borage),Maintenance of the barrier function of the skin,1
+Supports the normal level of blood cholesterol.,Pure salmon oil 500 mg. D alpha tocopherol10 mg.-cps,Maintenance of normal blood LDL-cholesterol concentrations,0
+Supports the normal synthesis of the conjunctive tissue of joints.,"Glucosamin 500 mg, chondroitin 440 mg, vit. PP 6 mg, Sodium selenit 4,8 mg.cps",Maintenance of normal joints,0
+Synergistic combination for joint maintenance,"Methylsulfonylmethane (MSM)
+in combination with glucosamine HCl",Maintenance of joints,0
+"The antioxidant action of beta-caroten helps to neutralize free radicals and counteracts cellular ageing.
+Beta-caroten is involved in body tissue protection from UV rays damage.",B-caroten,"protection of DNA, proteins and lipids from oxidative damage",2
+"The antioxidant action of beta-caroten helps to neutralize free radicals and counteracts cellular ageing.
+Beta-caroten is involved in body tissue protection from UV rays damage.",B-caroten,protection of the skin from UV-induced (including photo-oxidative) damage,2
+"This fatty acids mix * improves tear quantity
+This fatty acids mix * contributes to ocular comfort/visual comfort
+This fatty acids mix * improves lachrymal functions
+This fatty acids mix * decreases ocular dryness * linoleic acid and gamma-linolenic acid",The food component is a mix of linoleic acid and gamma-linolenic acid.,reduction of ocular dryness,1
+To support the body's defense system. To support immnue system. To enhance organism resistance.,Glutamine,“immune function/immune system”,1
+Traditionally used to enhance the renal elimination of water. Traditionally used to facilitate the elimination functions of the organism. Used to enhance the renal elimination of water. Used to facilitate the elimination functions of the organism. Used for the drainage of the organism. Diuretic effect. Stimulates the elimination function of the organism. Contributes to the functionary of the urinary tract.,Armorica rusticana - common name : Horseradish,improvement of diuretic function,1
+Used to enhance the renal elimination of water. Used to facilitate the elimination functions of the organism. Used for the drainage of the organism. Stimulates the elimination function of the organism. Contributes to the functionary of the urinary tract.,Armorica rusticana - common name : Horseradish,improvement of diuretic function,1
+Useful for normal prostate function.,SOIA ISOFLAVONI,Useful for normal prostate function.,0
+"VitaGranate® Pomegranate Extract is an excellent source of pomegranate polyphenols, compounds that have been associated with the maintenance of cardiovascular health.",VitaGranate® Pomegranate Extract 40% Ellagic Acid,maintenance of normal blood cholesterol concentrations,0
+Vitamin A protects against free-radical-induced muscle damage.,Vitamin A,"protection of DNA, proteins and lipids from oxidative damage",2
+Vitamin D is needed for the normal / proper function of the thyroid. Vitamin D is needed for the proper regulation of blood calcium levels.,Vitamin D,thyroid function,0
+Vitamin E is an antioxidant that protects the body's cells.,Vitamin E,maintenance of the normal function of the immune system,2
+"WGP beta-glucan contributes to the normal function of the immune system. WGP beta-glucan naturally contributes to adequate immune responses. The daily dietary supplementation with WGP beta-glucan promotes the normal function of the immune system. WPG beta-glucan enhances the production and activity of the macrophages and neutrophiles. Thus, it plays an important role in the adequate function of the immune system. WGP beta-glucan contributes to maitain the normal function of upper respiratoy tract.","WGP beta-glucan;(WGP® (1,3)-b-D-glucan);(from Saccharomy-ces cerevisiae)",maintenance of the upper respiratory tract defence against pathogens by maintaining immune defences,1
+Water-soluble dietary fibres as a part of the healthy diet support the maintenance of normal blood cholesterol level.,Water- soluble dietary fibre,maintenance of normal blood cholesterol concentrations,0
+"Wheat dextrin helps to improve the absorption of calcium and magnesium; two minerals that are essential for healthy muscles and bones.
+Wheat dextrin improves magnesium and calcium absorption and retention.
+Wheat dextrin helps increase the absorption and retention of certain vital nutrients and promotes overall good health.",Wheat Dextrin,increase in magnesium and/or calcium retention,1
+Whey protein essential amino acids aid muscle maintenance and growth,Whey Protein,growth or maintenance of muscle mass,0
+"Whey protein hydrolysate enhances muscle recovery.
+Glutamine-rich whey protein enhances muscle recovery.",Whey protein Hydrolysate,faster recovery from muscle fatigue after exercise,1
+"Xanthohumol protects body cells from harmful free radicals which damage cells, protects them from oxidation induced cell stress and reinforces cell protection.",xanthohumol,"Protection of DNA, proteins and lipids from oxidative damage",2
+"Zur natürlichen Unterstützung und Regulierung der Verdauung, insbesondere bei der Neigung zu Blähungen, Sodbrennen, hartem oder ungeformtem Stuhl.
+Verbessert die Verdauung.
+Clarification provided
+Naturally supports and regulates the digestive system, especially relating to excessive flatulence or gas, or a tendency towards loose stool, constipation or heart burn.
+Improves the digestion.","–Papayafruchtfleisch (CARICOL®)–ballaststoffreiche Fruchtzubereitung, hergestellt aus dem Fruchtfleisch baumgereifter Papayafrüchte nach einem international patentierten Verfahren (PCT/IB2003/005476).––CARICOL® ist eine international geschützte Marke (820",reduction of gastro-intestinal discomfort,1
+"[In German:] Sauerkrautsaft regt die Verdauung an.
+Clarification provided
+Helps to support the digestion / contributes to the normal function of intestinal tract / functioning of the stomach / sauerkaut juice activate the eupepsia.",Sauerkraut Saft (milchsauer vergorener Weißkohl (Brassica oleracea var. capitata),changes in bowel function,0
+"[In German:] Stutenmilch kann die Anzahl an Bifidusbakterien im Darm erhöhen.
+Clarification provided
+Mare’s milk is able to increase the number of intestinal bifidus bacteria","Stutenmilch, naturbelassen",Increasing numbers of gastro-intestinal microorganisms,1
+"[In German:] Stutenmilch kann die Anzahl an Bifidusbakterien im Darm erhöhen.
+Clarification provided
+Mare’s milk is able to increase the number of intestinal bifidus bacteria","Stutenmilch, naturbelassen",“Immune system”,1
+"[In German:] trägt zur sichtbaren Verbesserung der Hautoberflächenstruktur bei.
+Clarification provided
+Contributes to visible improvement of the skin surface structure.",natürliches Mineralwasser,Maintenance of structure and elasticity of the skin,2
+"energizer and proteic food supplement / recomended for fast increase of energy, strenght and muscular development / recovery musular energy after physical and mental effort","Fructose, Glucose, Maltodextrine, Milk protein concentrate, 5.Soy protein concentrate, Creatine, Vitamin C, Magnezium Oxide, Zinc Oxide,Alimentary flavors",growth or maintenance of muscle mass,1
+glutamine improves body metabolism,Glutaminian,growth or maintenance of muscle mass,1
+"help delay the onset of fatigue during a subsequent bout of exercise helps you to perform for longer improves subsequent endurance capacity can help the body recover more effectively from exercise ensures adequate hydration and restores endurance capacity liquid carbohydrate is as effective, if not more effective than a solid form for glycogen resynthesis",Carbohydrate electrolyte drinks,reduction in the rated perceived exertion/effort during exercise,1
+help to maintain a normal glucose level.,Punica granatum-fruits-Punicaceae-Dadhima-Pomegranate,maintenance of normal blood glucose concentrations,0
+helps the development of the intestinal flora [APPENDIX 1]; stimulates the growth of Bifidobacteria in the colon; is a prebiotic; is bifidogenic; promotes healthy/balanced/good gut bacteria; supports healthy gastrointestinal flora; promotes healthy gut bacteria or microflora; promotes good digestive health; promotes gastrointestinal/bowel/gut/colonic health; promotes proper/healthy bowel function; supports healthy gastrointestinal flora; improves intestinal conditions; promotes intestinal health; promotes healthy conditions in the colon; improves digestive/bowel function; improves digestive/gut comfor,Lactulose,Decreasing potentially pathogenic gastro-intestinal microorganisms,1
+"helps to control fat metabolism
+influences lipid metabolism and storage.
+increases lean muscle mass
+reduces body fat percentage
+helps to reduce body fat mass while increasing lean body mass
+helps to reduce body fat mass
+helps to reduce the amount of fat you store after eating
+helps to decrease the amount of fat stored in your body
+helps to reduce you abdominal fat mass
+helps to reduce fat mass in your abdomen and thighs
+helps to improve your body shape
+helps to increase lean body mass
+helps reduce weight gain 
+helps to reduce SAD (sagittal abdominal diameter)
+helps to prevent the yoyo-effect after a diet
+helps to reduce muscle protein loss during a diet
+helps to increase feelings of fullness and satiety","Conjugated Linoleic acid (cis-9, trans-11 and trans-10, cis-12)",contribution to the maintenance or achievement of a normal body weight,1
+helps to keep normal blood cholesterol,Evening primrose oil (Oenothera biennis) contains gamalinolenic acid,maintenance of normal blood LDL-cholesterol concentrations,0
+helps to keep normal blood preassure,Evening primrose oil (Oenothera biennis) contains gamalinolenic acid,Maintenance of normal blood pressure,0
+helps to lower level of the consumed alcohol in the body by decelerating of the absorbin of alcohol,Mix of Glucose-Fructose,Decreasing the absorption of alcohol,2
+"helps to maintain normal vision, recomended in dry and irritable eyes, incineration and ephiphora and inflamed eyelids, helps to preserve elasticity and permeability of capilars of retina and supports good blood circulation in eyes",zeaxantin,maintenance of normal vision,0
+instant drink which helps burning fats / accelerate the fats metabolism / increase physical performances and effort resistance,"Fructose, L/Carnitine",contribution to the maintenance or achievement of a normal body weight,1
+mineral(s) help the development of all body structures. -mineral(s) are essential for your body. -we need mineral(s) to make the body functions work. -mineral(s) is a factor in the maintenance of good health,All minerals,“multivitamin supplementation to sustain vitality while aging” and “development”,0
+probiotic enhances levels of beneficial microflora balances your intestinal microflora beneficially affects the intestinal flora supports a balanced beneficial gastro-intestinal microflora,Bifidobacterium animalis Lafti B94 (CBS118.529),decreasing potentially pathogenic intestinal microorganisms,1
+probiotic enhances levels of beneficial microflora balances your intestinal microflora beneficially affects the intestinal flora supports a balanced beneficial gastro-intestinal microflora,"Name of Food product: fermented dairy products
+
+Description of food in terms of food legislation categories: food not covered by specific food legislation
+
+Was food on Irish market before 1st July 2007: Yes",decreasing potentially pathogenic intestinal microorganisms,1
+"remineralizes/restores tooth enamel after meals
+increases tooth surface hardness
+helps strengthen teeth.",Calcium phosphoryl oligosaccharide,maintenance of tooth mineralisation,1
+“HPMC promotes good digestive health and regularity.” “HPMC promotes good digestive health.” “HPMC promotes regularity.” “HPMC helps maintain good digestive health and regularity.” HPMC helps maintain good digestive health.” “HPMC helps maintain regularity.” “HPMC helps promote better digestion.” “Soluble fibre such as HPMC helps promote better digestion.” “HPMC helps promote better digestion.” “HPMC helps promote a healthy digestive system.” “Soluble fibre such as HPMC promotes a healthy digestive system.” “HPMC promotes a healthy digestive system.” “HPMC/ dietary fibre helps to maintain normal bowel/colonic function.” “HPMC/dietary fibre promotes regularity.” “HPMC/dietary fibre ensures a healthy digestive system/function.”,"Hydroxypropyl methylcellulose (HPMC)
+Dietary fibre",maintenance of normal bowel function,0
+"“Provides antioxidant protection.”
+“For daily detoxification support.”
+“Research indicates that chlorophyllin may modulate the activity of detoxification enzymes and provide antioxidant protection against free radicals.”","Chlorophyllin
+[Sodium copper chlorophyllin]",reduction of gastro-intestinal discomfort,2
+"• For people with a sensitive stomach;
+• Soothes a sensitive stomach;
+• Protects the stomach lining",Fat-reduced cream powder (rich source of milk phospholipids),Reduction of gastric acid,2
