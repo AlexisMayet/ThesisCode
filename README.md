@@ -1,5 +1,5 @@
 # ThesisCode
-This repository contains the code accompanying my bachelor thesis titled : "Automating Feature Extraction of Food Health
+This repository contains the code and the data accompanying my bachelor thesis titled : "Automating Feature Extraction of Food Health
 relationships"
 
 
